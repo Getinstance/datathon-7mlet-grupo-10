@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "special-octo-eureka"
+version = "0.1.0"
+description = "Fase 5 FIAP 7MLet"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy==2.4.6",
+  "pandas==3.0.3",
+  "matplotlib==3.10.9",
+  "seaborn==0.13.2",
+  "scikit-learn==1.9.0"
+]
