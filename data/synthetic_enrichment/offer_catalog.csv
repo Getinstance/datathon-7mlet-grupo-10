@@ -1,0 +1,221 @@
+offer_id,offer_name,category,channel,estimated_value,suitability_score
+O_011,Conta Internacional Especial,Serviços,Banner,565.00,9
+O_012,Fundo de Investimento Max,Investimento,App Push,685.00,4
+O_013,Tesouro Direto Express,Investimento,App Push,960.00,9
+O_014,Conta Internacional Online,Serviços,Banner,385.00,4
+O_015,Seguro Proteção Celular Online,Seguros,App Push,215.00,9
+O_016,Crédito Consignado Especial,Crédito,Email,395.00,4
+O_017,Seguro Proteção Celular Premium,Seguros,Banner,235.00,3
+O_018,Seguro de Vida Express,Seguros,App Push,215.00,3
+O_019,Conta Internacional Max,Serviços,Email,585.00,9
+O_020,Open Banking Premium Max,Serviços,Banner,395.00,4
+O_021,Seguro Proteção Celular Premium,Seguros,Email,125.00,3
+O_022,Tesouro Direto Select,Investimento,SMS,1305.00,9
+O_023,Seguro de Vida Smart,Seguros,Banner,275.00,9
+O_024,Seguro Proteção Celular Express,Seguros,SMS,180.00,6
+O_025,Empréstimo Pessoal Flex,Crédito,Email,225.00,3
+O_026,Investimento CDB Avançado,Investimento,Banner,1290.00,7
+O_027,Upgrade para Conta PJ Avançado,Serviços,Email,40.00,6
+O_028,Pacote de Serviços Digitais Max,Serviços,App Push,225.00,10
+O_029,Cartão Crédito Premium,Crédito,Banner,1035.00,5
+O_030,Investimento CDB Express,Investimento,Email,1090.00,6
+O_031,Seguro de Vida Express,Seguros,SMS,395.00,8
+O_032,Consórcio Imobiliário Max,Investimento,Banner,1360.00,10
+O_033,Empréstimo Pessoal Select,Crédito,App Push,960.00,5
+O_034,Fundo de Investimento Flex,Investimento,App Push,1220.00,6
+O_035,Seguro Proteção Celular Select,Seguros,Banner,245.00,8
+O_036,Crédito Consignado Plus,Crédito,App Push,685.00,4
+O_037,Seguro Proteção Celular Max,Seguros,Email,35.00,8
+O_038,Previdência Privada Plus,Investimento,Banner,710.00,7
+O_039,Tesouro Direto Plus,Investimento,Email,1380.00,5
+O_040,Consórcio Imobiliário Online,Investimento,SMS,820.00,4
+O_041,Cartão Crédito Universitário Premium,Crédito,Banner,1100.00,7
+O_042,Tesouro Direto Express,Investimento,Email,50.00,6
+O_043,Seguro Auto Plus,Seguros,SMS,310.00,9
+O_044,Fundo de Investimento Select,Investimento,Banner,1230.00,9
+O_045,Pacote de Serviços Digitais Online,Serviços,SMS,460.00,8
+O_046,Conta Internacional Smart,Serviços,Email,485.00,6
+O_047,Seguro Auto Express,Seguros,Banner,440.00,8
+O_048,Seguro Viagem Max,Seguros,Email,145.00,4
+O_049,Seguro Viagem Select,Seguros,Email,500.00,3
+O_050,Investimento CDB Max,Investimento,Banner,65.00,10
+O_051,Crédito Consignado Select,Crédito,Email,325.00,5
+O_052,Conta Internacional Especial,Serviços,SMS,405.00,6
+O_053,Seguro Proteção Celular Flex,Seguros,Banner,30.00,3
+O_054,Upgrade para Conta PJ Plus,Serviços,App Push,480.00,8
+O_055,Investimento CDB Smart,Investimento,Email,75.00,8
+O_056,Fundo de Investimento Especial,Investimento,Banner,1420.00,7
+O_057,Cartão Crédito Universitário Premium,Crédito,SMS,1050.00,10
+O_058,Assessoria Financeira Express,Serviços,App Push,55.00,7
+O_059,Empréstimo Pessoal Avançado,Crédito,Banner,555.00,7
+O_060,Crédito Consignado Express,Crédito,Email,420.00,10
+O_061,Conta Internacional Express,Serviços,Email,565.00,7
+O_062,Assessoria Financeira Max,Serviços,Banner,345.00,9
+O_063,Consórcio Imobiliário Flex,Investimento,App Push,1060.00,6
+O_064,Crédito Consignado Max,Crédito,Email,115.00,6
+O_065,Investimento CDB Select,Investimento,Banner,1065.00,8
+O_066,Seguro Proteção Celular Flex,Seguros,App Push,145.00,7
+O_067,Financiamento de Veículos Online,Crédito,Email,575.00,9
+O_068,Seguro Proteção Celular Max,Seguros,Banner,415.00,9
+O_069,Cartão Crédito Universitário Select,Crédito,SMS,715.00,7
+O_070,Tesouro Direto Avançado,Investimento,Email,1065.00,3
+O_071,Pacote de Serviços Digitais Especial,Serviços,Banner,265.00,5
+O_072,Cartão Crédito Premium,Crédito,SMS,420.00,5
+O_073,Conta Internacional Smart,Serviços,App Push,485.00,4
+O_074,Fundo de Investimento Online,Investimento,Banner,1200.00,6
+O_075,Fundo de Investimento Flex,Investimento,SMS,855.00,4
+O_076,Crédito Consignado Express,Crédito,SMS,1025.00,9
+O_077,Conta Internacional Especial,Serviços,Banner,380.00,8
+O_078,Seguro de Vida Max,Seguros,SMS,155.00,10
+O_079,Open Banking Premium Smart,Serviços,App Push,225.00,3
+O_080,Financiamento de Veículos Express,Crédito,Banner,50.00,7
+O_081,Seguro Auto Plus,Seguros,Email,460.00,3
+O_082,Seguro de Vida Select,Seguros,SMS,80.00,9
+O_083,Cartão Crédito Universitário Select,Crédito,Banner,1095.00,9
+O_084,Seguro Proteção Celular Max,Seguros,SMS,435.00,5
+O_085,Pacote de Serviços Digitais Online,Serviços,App Push,240.00,7
+O_086,Conta Internacional Smart,Serviços,Banner,550.00,6
+O_087,Consórcio Imobiliário Select,Investimento,Email,425.00,5
+O_088,Seguro de Vida Flex,Seguros,App Push,290.00,10
+O_089,Tesouro Direto Smart,Investimento,Banner,235.00,9
+O_090,Cartão Crédito Avançado,Crédito,Email,360.00,10
+O_091,Empréstimo Pessoal Max,Crédito,Email,45.00,10
+O_092,Consórcio Imobiliário Max,Investimento,Banner,450.00,4
+O_093,Seguro de Vida Select,Seguros,Email,90.00,5
+O_094,Upgrade para Conta PJ Smart,Serviços,Email,490.00,5
+O_095,Seguro Proteção Celular Smart,Seguros,Banner,375.00,9
+O_096,Open Banking Premium Especial,Serviços,Email,75.00,6
+O_097,Cartão Crédito Universitário Avançado,Crédito,SMS,775.00,5
+O_098,Previdência Privada Plus,Investimento,Banner,1375.00,10
+O_099,Open Banking Premium Avançado,Serviços,SMS,415.00,10
+O_100,Seguro Proteção Celular Especial,Seguros,App Push,180.00,3
+O_101,Empréstimo Pessoal Plus,Crédito,Banner,85.00,7
+O_102,Investimento CDB Express,Investimento,SMS,635.00,4
+O_103,Cartão Crédito Smart,Crédito,App Push,715.00,4
+O_104,Open Banking Premium Especial,Serviços,Banner,65.00,5
+O_105,Tesouro Direto Especial,Investimento,SMS,195.00,8
+O_106,Tesouro Direto Smart,Investimento,App Push,1105.00,10
+O_107,Pacote de Serviços Digitais Select,Serviços,Banner,65.00,9
+O_108,Conta Internacional Online,Serviços,SMS,375.00,6
+O_109,Crédito Consignado Especial,Crédito,App Push,1150.00,6
+O_110,Seguro Auto Plus,Seguros,Banner,225.00,7
+O_111,Assessoria Financeira Select,Serviços,SMS,195.00,8
+O_112,Crédito Consignado Smart,Crédito,App Push,215.00,7
+O_113,Assessoria Financeira Premium,Serviços,Banner,145.00,5
+O_114,Crédito Consignado Select,Crédito,Email,375.00,8
+O_115,Cartão Crédito Universitário Smart,Crédito,Email,385.00,3
+O_116,Seguro Auto Select,Seguros,Banner,25.00,10
+O_117,Open Banking Premium Online,Serviços,SMS,485.00,3
+O_118,Financiamento de Veículos Smart,Crédito,SMS,625.00,4
+O_119,Seguro Residencial Smart,Seguros,Banner,350.00,4
+O_120,Pacote de Serviços Digitais Avançado,Serviços,App Push,200.00,6
+O_121,Crédito Consignado Select,Crédito,App Push,695.00,3
+O_122,Cartão Crédito Universitário Online,Crédito,Banner,1135.00,9
+O_123,Upgrade para Conta PJ Plus,Serviços,SMS,200.00,8
+O_124,Seguro Proteção Celular Plus,Seguros,App Push,485.00,9
+O_125,Cartão Crédito Avançado,Crédito,Banner,105.00,10
+O_126,Pacote de Serviços Digitais Express,Serviços,SMS,80.00,3
+O_127,Empréstimo Pessoal Express,Crédito,SMS,205.00,5
+O_128,Upgrade para Conta PJ Smart,Serviços,Banner,205.00,6
+O_129,Seguro Auto Max,Seguros,App Push,105.00,9
+O_130,Upgrade para Conta PJ Express,Serviços,App Push,285.00,10
+O_131,Open Banking Premium Especial,Serviços,Banner,590.00,10
+O_132,Seguro Auto Plus,Seguros,Email,155.00,8
+O_133,Crédito Consignado Smart,Crédito,SMS,480.00,9
+O_134,Cartão Crédito Max,Crédito,Banner,395.00,4
+O_135,Financiamento de Veículos Flex,Crédito,SMS,235.00,7
+O_136,Previdência Privada Select,Investimento,SMS,1445.00,3
+O_137,Seguro Auto Plus,Seguros,Banner,150.00,10
+O_138,Seguro de Vida Select,Seguros,App Push,370.00,4
+O_139,Financiamento de Veículos Online,Crédito,Email,550.00,4
+O_140,Seguro Auto Avançado,Seguros,Banner,390.00,4
+O_141,Investimento CDB Online,Investimento,Email,515.00,4
+O_142,Conta Internacional Premium,Serviços,Email,90.00,8
+O_143,Cartão Crédito Select,Crédito,Banner,160.00,6
+O_144,Empréstimo Pessoal Online,Crédito,SMS,1070.00,4
+O_145,Open Banking Premium Flex,Serviços,Email,250.00,7
+O_146,Open Banking Premium Max,Serviços,Banner,345.00,9
+O_147,Empréstimo Pessoal Especial,Crédito,App Push,515.00,4
+O_148,Crédito Consignado Especial,Crédito,App Push,640.00,8
+O_149,Seguro Residencial Especial,Seguros,Banner,290.00,5
+O_150,Previdência Privada Flex,Investimento,Email,250.00,8
+O_151,Cartão Crédito Universitário Especial,Crédito,Email,1005.00,4
+O_152,Cartão Crédito Plus,Crédito,Banner,905.00,3
+O_153,Upgrade para Conta PJ Smart,Serviços,App Push,205.00,3
+O_154,Seguro Auto Avançado,Seguros,Email,170.00,5
+O_155,Crédito Consignado Especial,Crédito,Banner,615.00,6
+O_156,Conta Internacional Premium,Serviços,SMS,385.00,10
+O_157,Empréstimo Pessoal Online,Crédito,Email,655.00,3
+O_158,Cartão Crédito Flex,Crédito,Banner,800.00,9
+O_159,Open Banking Premium Express,Serviços,App Push,150.00,5
+O_160,Cartão Crédito Avançado,Crédito,App Push,330.00,9
+O_161,Seguro Proteção Celular Premium,Seguros,Banner,405.00,9
+O_162,Tesouro Direto Smart,Investimento,SMS,970.00,3
+O_163,Upgrade para Conta PJ Smart,Serviços,App Push,425.00,7
+O_164,Seguro de Vida Premium,Seguros,Banner,340.00,9
+O_165,Tesouro Direto Avançado,Investimento,SMS,600.00,7
+O_166,Assessoria Financeira Especial,Serviços,SMS,410.00,7
+O_167,Financiamento de Veículos Max,Crédito,Banner,505.00,8
+O_168,Consórcio Imobiliário Express,Investimento,SMS,685.00,6
+O_169,Upgrade para Conta PJ Online,Serviços,SMS,225.00,7
+O_170,Crédito Consignado Plus,Crédito,Banner,935.00,7
+O_171,Fundo de Investimento Express,Investimento,SMS,1140.00,5
+O_172,Cartão Crédito Max,Crédito,SMS,145.00,10
+O_173,Investimento CDB Express,Investimento,Banner,1420.00,4
+O_174,Pacote de Serviços Digitais Smart,Serviços,SMS,200.00,8
+O_175,Cartão Crédito Max,Crédito,Email,315.00,3
+O_176,Seguro Residencial Express,Seguros,Banner,330.00,10
+O_177,Consórcio Imobiliário Especial,Investimento,SMS,1125.00,4
+O_178,Cartão Crédito Universitário Max,Crédito,SMS,810.00,10
+O_179,Seguro Residencial Online,Seguros,Banner,420.00,10
+O_180,Cartão Crédito Max,Crédito,App Push,845.00,10
+O_181,Fundo de Investimento Express,Investimento,Email,1085.00,5
+O_182,Financiamento de Veículos Max,Crédito,Banner,920.00,10
+O_183,Seguro Viagem Avançado,Seguros,App Push,340.00,4
+O_184,Seguro de Vida Flex,Seguros,Email,305.00,3
+O_185,Previdência Privada Flex,Investimento,Banner,725.00,4
+O_186,Previdência Privada Plus,Investimento,SMS,920.00,6
+O_187,Cartão Crédito Universitário Especial,Crédito,Email,105.00,5
+O_188,Cartão Crédito Especial,Crédito,Banner,1095.00,8
+O_189,Fundo de Investimento Max,Investimento,App Push,705.00,7
+O_190,Crédito Consignado Flex,Crédito,Email,1100.00,9
+O_191,Cartão Crédito Universitário Max,Crédito,Banner,815.00,10
+O_192,Seguro Residencial Select,Seguros,App Push,90.00,10
+O_193,Fundo de Investimento Select,Investimento,App Push,665.00,9
+O_194,Seguro Viagem Select,Seguros,Banner,325.00,8
+O_195,Assessoria Financeira Flex,Serviços,App Push,480.00,7
+O_196,Investimento CDB Max,Investimento,SMS,1445.00,7
+O_197,Previdência Privada Select,Investimento,Banner,100.00,8
+O_198,Investimento CDB Avançado,Investimento,Email,740.00,5
+O_199,Investimento CDB Plus,Investimento,App Push,1160.00,9
+O_200,Fundo de Investimento Especial,Investimento,Banner,1175.00,6
+O_201,Fundo de Investimento Plus,Investimento,SMS,1380.00,9
+O_202,Investimento CDB Express,Investimento,App Push,1045.00,8
+O_203,Crédito Consignado Express,Crédito,Banner,610.00,5
+O_204,Seguro de Vida Smart,Seguros,App Push,80.00,6
+O_205,Consórcio Imobiliário Smart,Investimento,SMS,1495.00,9
+O_206,Cartão Crédito Universitário Premium,Crédito,Banner,460.00,6
+O_207,Cartão Crédito Universitário Smart,Crédito,Email,290.00,5
+O_208,Assessoria Financeira Avançado,Serviços,SMS,385.00,5
+O_209,Tesouro Direto Smart,Investimento,Banner,1325.00,8
+O_210,Previdência Privada Avançado,Investimento,Email,1020.00,5
+O_211,Investimento CDB Smart,Investimento,Email,65.00,8
+O_212,Assessoria Financeira Premium,Serviços,Banner,270.00,10
+O_213,Cartão Crédito Universitário Especial,Crédito,Email,630.00,4
+O_214,Seguro de Vida Premium,Seguros,Email,70.00,7
+O_215,Seguro Auto Select,Seguros,Banner,250.00,8
+O_216,Investimento CDB Max,Investimento,App Push,200.00,7
+O_217,Fundo de Investimento Smart,Investimento,SMS,1385.00,10
+O_218,Consórcio Imobiliário Especial,Investimento,Banner,830.00,6
+O_219,Conta Internacional Select,Serviços,App Push,570.00,4
+O_220,Pacote de Serviços Digitais Max,Serviços,App Push,550.00,6
+O_221,Pacote de Serviços Digitais Select,Serviços,Banner,465.00,7
+O_222,Empréstimo Pessoal Avançado,Crédito,SMS,45.00,7
+O_223,Seguro Auto Online,Seguros,App Push,485.00,7
+O_224,Seguro Viagem Express,Seguros,Banner,350.00,3
+O_225,Investimento CDB Avançado,Investimento,Email,115.00,10
+O_226,Seguro Viagem Avançado,Seguros,Email,25.00,5
+O_227,Previdência Privada Plus,Investimento,Banner,885.00,5
+O_228,Fundo de Investimento Online,Investimento,SMS,285.00,3
+O_229,Tesouro Direto Max,Investimento,SMS,1485.00,3
+O_230,Seguro Residencial Online,Seguros,Banner,365.00,8
