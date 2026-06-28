@@ -1,0 +1,1 @@
+# Relatório da geração de dados.
