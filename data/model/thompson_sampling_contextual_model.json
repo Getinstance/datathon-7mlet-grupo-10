@@ -1,128 +1,2410 @@
 {
-    "Emprestimo_0_age_Adulto": {
+    "Canal_App Push_Cluster_4_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 3354,
-            "Servi\u00e7os": 25,
-            "Cr\u00e9dito": 313,
-            "Seguros": 213
+            "Investimento": 15,
+            "Servi\u00e7os": 162,
+            "Cr\u00e9dito": 4,
+            "Seguros": 37
         },
         "betas": {
-            "Investimento": 29931,
-            "Servi\u00e7os": 388,
-            "Cr\u00e9dito": 3158,
-            "Seguros": 2202
+            "Investimento": 144,
+            "Servi\u00e7os": 1216,
+            "Cr\u00e9dito": 83,
+            "Seguros": 362
         }
     },
-    "Emprestimo_0_age_Jovem": {
-        "alphas": {
-            "Investimento": 275,
-            "Servi\u00e7os": 412,
-            "Cr\u00e9dito": 567,
-            "Seguros": 218
-        },
-        "betas": {
-            "Investimento": 1548,
-            "Servi\u00e7os": 2149,
-            "Cr\u00e9dito": 3034,
-            "Seguros": 1154
-        }
-    },
-    "Emprestimo_0_age_Senior": {
-        "alphas": {
-            "Investimento": 186,
-            "Servi\u00e7os": 670,
-            "Cr\u00e9dito": 15,
-            "Seguros": 44
-        },
-        "betas": {
-            "Investimento": 718,
-            "Servi\u00e7os": 2356,
-            "Cr\u00e9dito": 92,
-            "Seguros": 217
-        }
-    },
-    "Emprestimo_2_age_Senior": {
-        "alphas": {
-            "Investimento": 7,
-            "Servi\u00e7os": 40,
-            "Cr\u00e9dito": 116,
-            "Seguros": 22
-        },
-        "betas": {
-            "Investimento": 43,
-            "Servi\u00e7os": 134,
-            "Cr\u00e9dito": 345,
-            "Seguros": 75
-        }
-    },
-    "Emprestimo_2_age_Jovem": {
-        "alphas": {
-            "Investimento": 186,
-            "Servi\u00e7os": 10,
-            "Cr\u00e9dito": 127,
-            "Seguros": 2
-        },
-        "betas": {
-            "Investimento": 840,
-            "Servi\u00e7os": 85,
-            "Cr\u00e9dito": 578,
-            "Seguros": 39
-        }
-    },
-    "Emprestimo_2_age_Adulto": {
-        "alphas": {
-            "Investimento": 293,
-            "Servi\u00e7os": 17,
-            "Cr\u00e9dito": 368,
-            "Seguros": 18
-        },
-        "betas": {
-            "Investimento": 2862,
-            "Servi\u00e7os": 261,
-            "Cr\u00e9dito": 3445,
-            "Seguros": 256
-        }
-    },
-    "Emprestimo_1_age_Adulto": {
+    "Canal_App Push_Cluster_4_Emprestimo_0_age_Jovem": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 5,
-            "Cr\u00e9dito": 2,
-            "Seguros": 105
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 5,
+            "Seguros": 10
         },
         "betas": {
-            "Investimento": 50,
-            "Servi\u00e7os": 95,
-            "Cr\u00e9dito": 57,
-            "Seguros": 731
+            "Investimento": 17,
+            "Servi\u00e7os": 77,
+            "Cr\u00e9dito": 54,
+            "Seguros": 92
         }
     },
-    "Emprestimo_1_age_Jovem": {
+    "Canal_SMS_Cluster_3_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 25,
-            "Servi\u00e7os": 7,
-            "Cr\u00e9dito": 10,
-            "Seguros": 8
+            "Investimento": 53,
+            "Servi\u00e7os": 15,
+            "Cr\u00e9dito": 19,
+            "Seguros": 1
         },
         "betas": {
-            "Investimento": 86,
-            "Servi\u00e7os": 35,
-            "Cr\u00e9dito": 46,
-            "Seguros": 44
+            "Investimento": 515,
+            "Servi\u00e7os": 214,
+            "Cr\u00e9dito": 224,
+            "Seguros": 35
         }
     },
-    "Emprestimo_1_age_Senior": {
+    "Canal_Banner_Cluster_2_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 33,
+            "Servi\u00e7os": 55,
+            "Cr\u00e9dito": 24,
+            "Seguros": 7
+        },
+        "betas": {
+            "Investimento": 112,
+            "Servi\u00e7os": 152,
+            "Cr\u00e9dito": 86,
+            "Seguros": 32
+        }
+    },
+    "Canal_Email_Cluster_4_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 46,
+            "Servi\u00e7os": 30,
+            "Cr\u00e9dito": 59,
+            "Seguros": 25
+        },
+        "betas": {
+            "Investimento": 492,
+            "Servi\u00e7os": 326,
+            "Cr\u00e9dito": 659,
+            "Seguros": 294
+        }
+    },
+    "Canal_Banner_Cluster_4_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 60,
+            "Servi\u00e7os": 27,
+            "Cr\u00e9dito": 166,
+            "Seguros": 42
+        },
+        "betas": {
+            "Investimento": 585,
+            "Servi\u00e7os": 310,
+            "Cr\u00e9dito": 1363,
+            "Seguros": 436
+        }
+    },
+    "Canal_Email_Cluster_2_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 10,
+            "Servi\u00e7os": 43,
+            "Cr\u00e9dito": 12,
+            "Seguros": 126
+        },
+        "betas": {
+            "Investimento": 110,
+            "Servi\u00e7os": 283,
+            "Cr\u00e9dito": 128,
+            "Seguros": 737
+        }
+    },
+    "Canal_Email_Cluster_3_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 12,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 3,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 29,
+            "Servi\u00e7os": 13,
+            "Cr\u00e9dito": 10,
+            "Seguros": 6
+        }
+    },
+    "Canal_Email_Cluster_5_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 44,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 73,
+            "Seguros": 20
+        },
+        "betas": {
+            "Investimento": 301,
+            "Servi\u00e7os": 89,
+            "Cr\u00e9dito": 472,
+            "Seguros": 144
+        }
+    },
+    "Canal_App Push_Cluster_1_Emprestimo_0_age_Jovem": {
         "alphas": {
             "Investimento": 6,
             "Servi\u00e7os": 2,
-            "Cr\u00e9dito": 20,
+            "Cr\u00e9dito": 5,
+            "Seguros": 13
+        },
+        "betas": {
+            "Investimento": 74,
+            "Servi\u00e7os": 43,
+            "Cr\u00e9dito": 65,
+            "Seguros": 108
+        }
+    },
+    "Canal_App Push_Cluster_5_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 59,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 33,
+            "Seguros": 15
+        },
+        "betas": {
+            "Investimento": 225,
+            "Servi\u00e7os": 73,
+            "Cr\u00e9dito": 146,
+            "Seguros": 90
+        }
+    },
+    "Canal_Banner_Cluster_5_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 63,
+            "Servi\u00e7os": 28,
+            "Cr\u00e9dito": 53,
+            "Seguros": 57
+        },
+        "betas": {
+            "Investimento": 309,
+            "Servi\u00e7os": 144,
+            "Cr\u00e9dito": 283,
+            "Seguros": 292
+        }
+    },
+    "Canal_SMS_Cluster_1_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 5,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 25,
+            "Servi\u00e7os": 13,
+            "Cr\u00e9dito": 19,
+            "Seguros": 10
+        }
+    },
+    "Canal_App Push_Cluster_2_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 130,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 21,
+            "Seguros": 37
+        },
+        "betas": {
+            "Investimento": 671,
+            "Servi\u00e7os": 97,
+            "Cr\u00e9dito": 153,
+            "Seguros": 236
+        }
+    },
+    "Canal_Email_Cluster_2_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 32,
+            "Cr\u00e9dito": 16,
+            "Seguros": 10
+        },
+        "betas": {
+            "Investimento": 22,
+            "Servi\u00e7os": 120,
+            "Cr\u00e9dito": 73,
+            "Seguros": 44
+        }
+    },
+    "Canal_SMS_Cluster_2_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 183,
+            "Servi\u00e7os": 21,
+            "Cr\u00e9dito": 18,
+            "Seguros": 10
+        },
+        "betas": {
+            "Investimento": 1324,
+            "Servi\u00e7os": 200,
+            "Cr\u00e9dito": 183,
+            "Seguros": 109
+        }
+    },
+    "Canal_Email_Cluster_1_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 4
+        },
+        "betas": {
+            "Investimento": 13,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 16,
+            "Seguros": 27
+        }
+    },
+    "Canal_SMS_Cluster_4_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 133,
+            "Servi\u00e7os": 17,
+            "Cr\u00e9dito": 6,
+            "Seguros": 36
+        },
+        "betas": {
+            "Investimento": 1005,
+            "Servi\u00e7os": 186,
+            "Cr\u00e9dito": 89,
+            "Seguros": 320
+        }
+    },
+    "Canal_SMS_Cluster_0_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 20,
+            "Cr\u00e9dito": 4,
+            "Seguros": 39
+        },
+        "betas": {
+            "Investimento": 44,
+            "Servi\u00e7os": 123,
+            "Cr\u00e9dito": 49,
+            "Seguros": 165
+        }
+    },
+    "Canal_App Push_Cluster_1_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 112,
+            "Servi\u00e7os": 7,
+            "Cr\u00e9dito": 7,
+            "Seguros": 14
+        },
+        "betas": {
+            "Investimento": 1186,
+            "Servi\u00e7os": 117,
+            "Cr\u00e9dito": 133,
+            "Seguros": 193
+        }
+    },
+    "Canal_Banner_Cluster_1_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 29,
+            "Servi\u00e7os": 124,
+            "Cr\u00e9dito": 51,
+            "Seguros": 18
+        },
+        "betas": {
+            "Investimento": 350,
+            "Servi\u00e7os": 1320,
+            "Cr\u00e9dito": 685,
+            "Seguros": 301
+        }
+    },
+    "Canal_Email_Cluster_3_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 13,
+            "Cr\u00e9dito": 1,
+            "Seguros": 4
+        },
+        "betas": {
+            "Investimento": 23,
+            "Servi\u00e7os": 49,
+            "Cr\u00e9dito": 18,
+            "Seguros": 26
+        }
+    },
+    "Canal_Banner_Cluster_2_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 22,
+            "Servi\u00e7os": 144,
+            "Cr\u00e9dito": 47,
+            "Seguros": 44
+        },
+        "betas": {
+            "Investimento": 229,
+            "Servi\u00e7os": 1048,
+            "Cr\u00e9dito": 379,
+            "Seguros": 367
+        }
+    },
+    "Canal_SMS_Cluster_1_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 18,
+            "Cr\u00e9dito": 3,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 34,
+            "Servi\u00e7os": 183,
+            "Cr\u00e9dito": 53,
+            "Seguros": 22
+        }
+    },
+    "Canal_Banner_Cluster_4_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 24,
+            "Cr\u00e9dito": 22,
+            "Seguros": 7
+        },
+        "betas": {
+            "Investimento": 20,
+            "Servi\u00e7os": 101,
+            "Cr\u00e9dito": 125,
+            "Seguros": 48
+        }
+    },
+    "Canal_SMS_Cluster_3_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 22,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 120,
+            "Servi\u00e7os": 23,
+            "Cr\u00e9dito": 19,
+            "Seguros": 17
+        }
+    },
+    "Canal_App Push_Cluster_3_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 21,
+            "Servi\u00e7os": 43,
+            "Cr\u00e9dito": 44,
+            "Seguros": 3
+        },
+        "betas": {
+            "Investimento": 78,
+            "Servi\u00e7os": 138,
+            "Cr\u00e9dito": 130,
+            "Seguros": 27
+        }
+    },
+    "Canal_SMS_Cluster_1_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 119,
+            "Servi\u00e7os": 20,
+            "Cr\u00e9dito": 4,
+            "Seguros": 10
+        },
+        "betas": {
+            "Investimento": 1703,
+            "Servi\u00e7os": 358,
+            "Cr\u00e9dito": 138,
+            "Seguros": 188
+        }
+    },
+    "Canal_Email_Cluster_0_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 4,
+            "Seguros": 7
+        },
+        "betas": {
+            "Investimento": 17,
+            "Servi\u00e7os": 12,
+            "Cr\u00e9dito": 28,
+            "Seguros": 31
+        }
+    },
+    "Canal_Banner_Cluster_4_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 13,
+            "Cr\u00e9dito": 12,
+            "Seguros": 16
+        },
+        "betas": {
+            "Investimento": 33,
+            "Servi\u00e7os": 133,
+            "Cr\u00e9dito": 122,
+            "Seguros": 171
+        }
+    },
+    "Canal_Banner_Cluster_3_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 29,
+            "Cr\u00e9dito": 2,
             "Seguros": 2
         },
         "betas": {
-            "Investimento": 24,
+            "Investimento": 28,
+            "Servi\u00e7os": 91,
+            "Cr\u00e9dito": 19,
+            "Seguros": 20
+        }
+    },
+    "Canal_Banner_Cluster_5_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 11,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 4,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 59,
+            "Servi\u00e7os": 64,
+            "Cr\u00e9dito": 39,
+            "Seguros": 28
+        }
+    },
+    "Canal_Banner_Cluster_5_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 3,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 11,
+            "Seguros": 5
+        }
+    },
+    "Canal_App Push_Cluster_3_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 23,
+            "Servi\u00e7os": 15,
+            "Cr\u00e9dito": 21,
+            "Seguros": 6
+        },
+        "betas": {
+            "Investimento": 275,
+            "Servi\u00e7os": 209,
+            "Cr\u00e9dito": 244,
+            "Seguros": 76
+        }
+    },
+    "Canal_Email_Cluster_0_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 98,
+            "Servi\u00e7os": 15,
+            "Cr\u00e9dito": 24,
+            "Seguros": 22
+        },
+        "betas": {
+            "Investimento": 290,
+            "Servi\u00e7os": 72,
+            "Cr\u00e9dito": 110,
+            "Seguros": 95
+        }
+    },
+    "Canal_SMS_Cluster_3_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 51,
+            "Servi\u00e7os": 14,
+            "Cr\u00e9dito": 14,
+            "Seguros": 32
+        },
+        "betas": {
+            "Investimento": 190,
+            "Servi\u00e7os": 50,
+            "Cr\u00e9dito": 63,
+            "Seguros": 98
+        }
+    },
+    "Canal_Banner_Cluster_3_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 114,
+            "Servi\u00e7os": 27,
+            "Cr\u00e9dito": 26,
+            "Seguros": 4
+        },
+        "betas": {
+            "Investimento": 423,
+            "Servi\u00e7os": 131,
+            "Cr\u00e9dito": 95,
+            "Seguros": 42
+        }
+    },
+    "Canal_Email_Cluster_4_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 20,
+            "Cr\u00e9dito": 7,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 12,
+            "Cr\u00e9dito": 18,
+            "Seguros": 5
+        }
+    },
+    "Canal_SMS_Cluster_0_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 61,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 23,
+            "Seguros": 19
+        },
+        "betas": {
+            "Investimento": 304,
+            "Servi\u00e7os": 24,
+            "Cr\u00e9dito": 131,
+            "Seguros": 102
+        }
+    },
+    "Canal_Banner_Cluster_0_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 16,
+            "Servi\u00e7os": 30,
+            "Cr\u00e9dito": 102,
+            "Seguros": 61
+        },
+        "betas": {
+            "Investimento": 77,
+            "Servi\u00e7os": 129,
+            "Cr\u00e9dito": 326,
+            "Seguros": 241
+        }
+    },
+    "Canal_SMS_Cluster_5_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 16,
+            "Servi\u00e7os": 47,
+            "Cr\u00e9dito": 45,
+            "Seguros": 11
+        },
+        "betas": {
+            "Investimento": 156,
+            "Servi\u00e7os": 369,
+            "Cr\u00e9dito": 340,
+            "Seguros": 111
+        }
+    },
+    "Canal_SMS_Cluster_0_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 4,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 6,
+            "Seguros": 3
+        }
+    },
+    "Canal_Email_Cluster_1_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 6,
+            "Cr\u00e9dito": 10,
+            "Seguros": 11
+        },
+        "betas": {
+            "Investimento": 51,
+            "Servi\u00e7os": 54,
+            "Cr\u00e9dito": 125,
+            "Seguros": 104
+        }
+    },
+    "Canal_Email_Cluster_2_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 30,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 53,
+            "Servi\u00e7os": 36,
+            "Cr\u00e9dito": 210,
+            "Seguros": 38
+        }
+    },
+    "Canal_Email_Cluster_4_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 5,
             "Servi\u00e7os": 13,
-            "Cr\u00e9dito": 42,
+            "Cr\u00e9dito": 8,
+            "Seguros": 9
+        },
+        "betas": {
+            "Investimento": 47,
+            "Servi\u00e7os": 78,
+            "Cr\u00e9dito": 79,
+            "Seguros": 74
+        }
+    },
+    "Canal_SMS_Cluster_4_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 12,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 55,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 60,
+            "Servi\u00e7os": 18,
+            "Cr\u00e9dito": 222,
+            "Seguros": 20
+        }
+    },
+    "Canal_Banner_Cluster_2_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 7,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 8,
+            "Seguros": 4
+        },
+        "betas": {
+            "Investimento": 18,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 19,
+            "Seguros": 17
+        }
+    },
+    "Canal_Email_Cluster_1_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 46,
+            "Servi\u00e7os": 29,
+            "Cr\u00e9dito": 18,
+            "Seguros": 35
+        },
+        "betas": {
+            "Investimento": 621,
+            "Servi\u00e7os": 399,
+            "Cr\u00e9dito": 284,
+            "Seguros": 520
+        }
+    },
+    "Canal_Email_Cluster_5_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 29,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 175,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 140,
+            "Servi\u00e7os": 26,
+            "Cr\u00e9dito": 714,
+            "Seguros": 21
+        }
+    },
+    "Canal_Email_Cluster_3_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 14,
+            "Cr\u00e9dito": 53,
+            "Seguros": 21
+        },
+        "betas": {
+            "Investimento": 90,
+            "Servi\u00e7os": 154,
+            "Cr\u00e9dito": 459,
+            "Seguros": 202
+        }
+    },
+    "Canal_Banner_Cluster_3_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 16,
+            "Servi\u00e7os": 18,
+            "Cr\u00e9dito": 4,
+            "Seguros": 48
+        },
+        "betas": {
+            "Investimento": 246,
+            "Servi\u00e7os": 292,
+            "Cr\u00e9dito": 86,
+            "Seguros": 645
+        }
+    },
+    "Canal_Banner_Cluster_1_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 38,
+            "Servi\u00e7os": 20,
+            "Cr\u00e9dito": 1,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 224,
+            "Servi\u00e7os": 117,
+            "Cr\u00e9dito": 25,
+            "Seguros": 34
+        }
+    },
+    "Canal_App Push_Cluster_2_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 53,
+            "Seguros": 19
+        },
+        "betas": {
+            "Investimento": 22,
+            "Servi\u00e7os": 36,
+            "Cr\u00e9dito": 121,
+            "Seguros": 60
+        }
+    },
+    "Canal_Banner_Cluster_5_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 160,
+            "Servi\u00e7os": 34,
+            "Cr\u00e9dito": 17,
+            "Seguros": 3
+        },
+        "betas": {
+            "Investimento": 840,
+            "Servi\u00e7os": 200,
+            "Cr\u00e9dito": 130,
+            "Seguros": 53
+        }
+    },
+    "Canal_App Push_Cluster_5_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 18,
+            "Servi\u00e7os": 71,
+            "Cr\u00e9dito": 8,
             "Seguros": 10
+        },
+        "betas": {
+            "Investimento": 154,
+            "Servi\u00e7os": 545,
+            "Cr\u00e9dito": 84,
+            "Seguros": 115
+        }
+    },
+    "Canal_Email_Cluster_4_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 3,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 7,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 14,
+            "Seguros": 6
+        }
+    },
+    "Canal_Email_Cluster_3_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 67,
+            "Servi\u00e7os": 19,
+            "Cr\u00e9dito": 52,
+            "Seguros": 4
+        },
+        "betas": {
+            "Investimento": 217,
+            "Servi\u00e7os": 67,
+            "Cr\u00e9dito": 175,
+            "Seguros": 31
+        }
+    },
+    "Canal_Banner_Cluster_5_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 6,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 7,
+            "Seguros": 5
+        }
+    },
+    "Canal_SMS_Cluster_5_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 7,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 9,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 59,
+            "Servi\u00e7os": 43,
+            "Cr\u00e9dito": 86,
+            "Seguros": 21
+        }
+    },
+    "Canal_App Push_Cluster_0_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 9,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 20,
+            "Seguros": 3
+        },
+        "betas": {
+            "Investimento": 17,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 33,
+            "Seguros": 9
+        }
+    },
+    "Canal_SMS_Cluster_5_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 32,
+            "Servi\u00e7os": 12,
+            "Cr\u00e9dito": 31,
+            "Seguros": 40
+        },
+        "betas": {
+            "Investimento": 158,
+            "Servi\u00e7os": 82,
+            "Cr\u00e9dito": 160,
+            "Seguros": 153
+        }
+    },
+    "Canal_SMS_Cluster_3_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 25,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 3,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 39,
+            "Servi\u00e7os": 12,
+            "Cr\u00e9dito": 11,
+            "Seguros": 4
+        }
+    },
+    "Canal_App Push_Cluster_3_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 10,
+            "Cr\u00e9dito": 1,
+            "Seguros": 9
+        },
+        "betas": {
+            "Investimento": 16,
+            "Servi\u00e7os": 29,
+            "Cr\u00e9dito": 9,
+            "Seguros": 28
+        }
+    },
+    "Canal_Banner_Cluster_0_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 20,
+            "Servi\u00e7os": 20,
+            "Cr\u00e9dito": 14,
+            "Seguros": 90
+        },
+        "betas": {
+            "Investimento": 132,
+            "Servi\u00e7os": 153,
+            "Cr\u00e9dito": 108,
+            "Seguros": 524
+        }
+    },
+    "Canal_App Push_Cluster_0_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 64,
+            "Servi\u00e7os": 14,
+            "Cr\u00e9dito": 8,
+            "Seguros": 68
+        },
+        "betas": {
+            "Investimento": 178,
+            "Servi\u00e7os": 61,
+            "Cr\u00e9dito": 41,
+            "Seguros": 178
+        }
+    },
+    "Canal_Banner_Cluster_2_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 19,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 3,
+            "Seguros": 21
+        },
+        "betas": {
+            "Investimento": 144,
+            "Servi\u00e7os": 80,
+            "Cr\u00e9dito": 41,
+            "Seguros": 158
+        }
+    },
+    "Canal_SMS_Cluster_2_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 10,
+            "Servi\u00e7os": 31,
+            "Cr\u00e9dito": 1,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 76,
+            "Servi\u00e7os": 178,
+            "Cr\u00e9dito": 28,
+            "Seguros": 25
+        }
+    },
+    "Canal_Email_Cluster_0_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 31,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 9,
+            "Servi\u00e7os": 21,
+            "Cr\u00e9dito": 64,
+            "Seguros": 10
+        }
+    },
+    "Canal_SMS_Cluster_2_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 16,
+            "Servi\u00e7os": 6,
+            "Cr\u00e9dito": 7,
+            "Seguros": 24
+        },
+        "betas": {
+            "Investimento": 58,
+            "Servi\u00e7os": 30,
+            "Cr\u00e9dito": 39,
+            "Seguros": 62
+        }
+    },
+    "Canal_SMS_Cluster_4_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 5,
+            "Seguros": 29
+        },
+        "betas": {
+            "Investimento": 29,
+            "Servi\u00e7os": 30,
+            "Cr\u00e9dito": 37,
+            "Seguros": 85
+        }
+    },
+    "Canal_SMS_Cluster_1_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 16,
+            "Cr\u00e9dito": 4,
+            "Seguros": 17
+        },
+        "betas": {
+            "Investimento": 29,
+            "Servi\u00e7os": 146,
+            "Cr\u00e9dito": 48,
+            "Seguros": 126
+        }
+    },
+    "Canal_Email_Cluster_2_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 25,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 10,
+            "Cr\u00e9dito": 36,
+            "Seguros": 6
+        }
+    },
+    "Canal_Email_Cluster_4_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 2,
+            "Seguros": 3
+        },
+        "betas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 12,
+            "Seguros": 16
+        }
+    },
+    "Canal_App Push_Cluster_4_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 5,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 6,
+            "Cr\u00e9dito": 9,
+            "Seguros": 7
+        }
+    },
+    "Canal_Banner_Cluster_1_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 19,
+            "Seguros": 6
+        },
+        "betas": {
+            "Investimento": 77,
+            "Servi\u00e7os": 55,
+            "Cr\u00e9dito": 344,
+            "Seguros": 124
+        }
+    },
+    "Canal_SMS_Cluster_4_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 10,
+            "Cr\u00e9dito": 4,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 22,
+            "Servi\u00e7os": 35,
+            "Cr\u00e9dito": 23,
+            "Seguros": 7
+        }
+    },
+    "Canal_App Push_Cluster_1_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 13,
+            "Servi\u00e7os": 6,
+            "Cr\u00e9dito": 3,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 152,
+            "Servi\u00e7os": 104,
+            "Cr\u00e9dito": 51,
+            "Seguros": 50
+        }
+    },
+    "Canal_App Push_Cluster_4_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 13,
+            "Servi\u00e7os": 10,
+            "Cr\u00e9dito": 1,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 22,
+            "Servi\u00e7os": 21,
+            "Cr\u00e9dito": 7,
+            "Seguros": 11
+        }
+    },
+    "Canal_Email_Cluster_0_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 47,
+            "Servi\u00e7os": 15,
+            "Cr\u00e9dito": 9,
+            "Seguros": 6
+        },
+        "betas": {
+            "Investimento": 338,
+            "Servi\u00e7os": 109,
+            "Cr\u00e9dito": 94,
+            "Seguros": 65
+        }
+    },
+    "Canal_Email_Cluster_4_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 4,
+            "Seguros": 28
+        },
+        "betas": {
+            "Investimento": 19,
+            "Servi\u00e7os": 19,
+            "Cr\u00e9dito": 44,
+            "Seguros": 164
+        }
+    },
+    "Canal_Banner_Cluster_0_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 2,
+            "Seguros": 3
+        },
+        "betas": {
+            "Investimento": 51,
+            "Servi\u00e7os": 37,
+            "Cr\u00e9dito": 32,
+            "Seguros": 37
+        }
+    },
+    "Canal_App Push_Cluster_0_Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 77,
+            "Cr\u00e9dito": 2,
+            "Seguros": 9
+        },
+        "betas": {
+            "Investimento": 74,
+            "Servi\u00e7os": 474,
+            "Cr\u00e9dito": 41,
+            "Seguros": 106
+        }
+    },
+    "Canal_App Push_Cluster_3_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 14,
+            "Seguros": 5
+        },
+        "betas": {
+            "Investimento": 30,
+            "Servi\u00e7os": 18,
+            "Cr\u00e9dito": 71,
+            "Seguros": 19
+        }
+    },
+    "Canal_App Push_Cluster_0_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 1,
+            "Seguros": 13
+        },
+        "betas": {
+            "Investimento": 17,
+            "Servi\u00e7os": 17,
+            "Cr\u00e9dito": 8,
+            "Seguros": 48
+        }
+    },
+    "Canal_Email_Cluster_1_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 31,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 6,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 194,
+            "Servi\u00e7os": 34,
+            "Cr\u00e9dito": 60,
+            "Seguros": 31
+        }
+    },
+    "Canal_Email_Cluster_0_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 3
+        }
+    },
+    "Canal_App Push_Cluster_2_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 40,
+            "Seguros": 14
+        },
+        "betas": {
+            "Investimento": 15,
+            "Servi\u00e7os": 19,
+            "Cr\u00e9dito": 144,
+            "Seguros": 58
+        }
+    },
+    "Canal_App Push_Cluster_1_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 6
+        },
+        "betas": {
+            "Investimento": 10,
+            "Servi\u00e7os": 19,
+            "Cr\u00e9dito": 9,
+            "Seguros": 19
+        }
+    },
+    "Canal_App Push_Cluster_5_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 15,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 2,
+            "Seguros": 5
+        },
+        "betas": {
+            "Investimento": 43,
+            "Servi\u00e7os": 17,
+            "Cr\u00e9dito": 11,
+            "Seguros": 22
+        }
+    },
+    "Canal_SMS_Cluster_0_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 4,
+            "Seguros": 9
+        },
+        "betas": {
+            "Investimento": 13,
+            "Servi\u00e7os": 24,
+            "Cr\u00e9dito": 27,
+            "Seguros": 30
+        }
+    },
+    "Canal_SMS_Cluster_3_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 23,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 6,
+            "Seguros": 2
+        }
+    },
+    "Canal_SMS_Cluster_3_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 8,
+            "Servi\u00e7os": 7,
+            "Cr\u00e9dito": 6,
+            "Seguros": 6
+        }
+    },
+    "Canal_Banner_Cluster_5_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 19,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 30,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 85,
+            "Servi\u00e7os": 21,
+            "Cr\u00e9dito": 123,
+            "Seguros": 19
+        }
+    },
+    "Canal_App Push_Cluster_2_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 4
+        },
+        "betas": {
+            "Investimento": 10,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 3,
+            "Seguros": 13
+        }
+    },
+    "Canal_App Push_Cluster_2_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 5,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 10,
+            "Servi\u00e7os": 22,
+            "Cr\u00e9dito": 15,
+            "Seguros": 9
+        }
+    },
+    "Canal_Banner_Cluster_1_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 10
+        },
+        "betas": {
+            "Investimento": 22,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 10,
+            "Seguros": 39
+        }
+    },
+    "Canal_Email_Cluster_0_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 1,
+            "Seguros": 4
+        },
+        "betas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 4,
+            "Seguros": 4
+        }
+    },
+    "Canal_Email_Cluster_1_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 3,
+            "Seguros": 8
+        },
+        "betas": {
+            "Investimento": 12,
+            "Servi\u00e7os": 10,
+            "Cr\u00e9dito": 16,
+            "Seguros": 23
+        }
+    },
+    "Canal_Email_Cluster_5_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 53,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 11,
+            "Servi\u00e7os": 10,
+            "Cr\u00e9dito": 123,
+            "Seguros": 9
+        }
+    },
+    "Canal_Email_Cluster_5_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 14,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 10,
+            "Seguros": 4
+        },
+        "betas": {
+            "Investimento": 89,
+            "Servi\u00e7os": 26,
+            "Cr\u00e9dito": 65,
+            "Seguros": 38
+        }
+    },
+    "Canal_App Push_Cluster_5_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 25,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 96,
+            "Servi\u00e7os": 23,
+            "Cr\u00e9dito": 13,
+            "Seguros": 14
+        }
+    },
+    "Canal_SMS_Cluster_1_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 3,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 29,
+            "Servi\u00e7os": 24,
+            "Cr\u00e9dito": 25,
+            "Seguros": 12
+        }
+    },
+    "Canal_Email_Cluster_4_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 1,
+            "Seguros": 4
+        }
+    },
+    "Canal_Banner_Cluster_4_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 35,
+            "Servi\u00e7os": 10,
+            "Cr\u00e9dito": 15,
+            "Seguros": 19
+        }
+    },
+    "Canal_Banner_Cluster_0_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 38,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 2,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 82,
+            "Servi\u00e7os": 30,
+            "Cr\u00e9dito": 11,
+            "Seguros": 14
+        }
+    },
+    "Canal_SMS_Cluster_4_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 2,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 12,
+            "Servi\u00e7os": 15,
+            "Cr\u00e9dito": 16,
+            "Seguros": 4
+        }
+    },
+    "Canal_App Push_Cluster_4_Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 19,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 2,
+            "Seguros": 8
+        },
+        "betas": {
+            "Investimento": 132,
+            "Servi\u00e7os": 46,
+            "Cr\u00e9dito": 38,
+            "Seguros": 91
+        }
+    },
+    "Canal_Banner_Cluster_2_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 15,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 16,
+            "Seguros": 17
+        }
+    },
+    "Canal_Banner_Cluster_4_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 10,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 6,
+            "Seguros": 16
+        },
+        "betas": {
+            "Investimento": 43,
+            "Servi\u00e7os": 15,
+            "Cr\u00e9dito": 19,
+            "Seguros": 51
+        }
+    },
+    "Canal_App Push_Cluster_4_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 4
+        }
+    },
+    "Canal_Email_Cluster_2_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 2,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 12,
+            "Servi\u00e7os": 14,
+            "Cr\u00e9dito": 18,
+            "Seguros": 11
+        }
+    },
+    "Canal_Banner_Cluster_4_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 4,
+            "Seguros": 13
+        },
+        "betas": {
+            "Investimento": 13,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 21,
+            "Seguros": 41
+        }
+    },
+    "Canal_SMS_Cluster_5_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 28,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 32,
+            "Servi\u00e7os": 12,
+            "Cr\u00e9dito": 87,
+            "Seguros": 8
+        }
+    },
+    "Canal_SMS_Cluster_0_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 9,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 42,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 23,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 57,
+            "Seguros": 6
+        }
+    },
+    "Canal_SMS_Cluster_4_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 2,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 13,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 11,
+            "Seguros": 3
+        }
+    },
+    "Canal_App Push_Cluster_1_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 17,
+            "Servi\u00e7os": 29,
+            "Cr\u00e9dito": 13,
+            "Seguros": 11
+        }
+    },
+    "Canal_Banner_Cluster_1_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 8,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 14,
+            "Servi\u00e7os": 16,
+            "Cr\u00e9dito": 47,
+            "Seguros": 18
+        }
+    },
+    "Canal_Banner_Cluster_0_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 15,
+            "Servi\u00e7os": 7,
+            "Cr\u00e9dito": 8,
+            "Seguros": 8
+        }
+    },
+    "Canal_App Push_Cluster_5_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 7,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 6,
+            "Cr\u00e9dito": 3,
+            "Seguros": 4
+        }
+    },
+    "Canal_Email_Cluster_4_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 4,
+            "Seguros": 2
+        }
+    },
+    "Canal_Email_Cluster_5_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 11,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 8,
+            "Seguros": 8
+        }
+    },
+    "Canal_SMS_Cluster_2_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 3
+        },
+        "betas": {
+            "Investimento": 10,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 10,
+            "Seguros": 10
+        }
+    },
+    "Canal_SMS_Cluster_2_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 3,
+            "Seguros": 11
+        },
+        "betas": {
+            "Investimento": 11,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 8,
+            "Seguros": 14
+        }
+    },
+    "Canal_Banner_Cluster_0_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 14,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 2,
+            "Seguros": 5
+        },
+        "betas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 3,
+            "Seguros": 4
+        }
+    },
+    "Canal_Email_Cluster_2_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 7,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 2,
+            "Seguros": 4
+        }
+    },
+    "Canal_SMS_Cluster_4_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 3,
+            "Seguros": 4
+        }
+    },
+    "Canal_Email_Cluster_0_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 3,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 7,
+            "Seguros": 5
+        }
+    },
+    "Canal_SMS_Cluster_2_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 6,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        }
+    },
+    "Canal_Banner_Cluster_3_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 7,
+            "Cr\u00e9dito": 3,
+            "Seguros": 24
+        },
+        "betas": {
+            "Investimento": 11,
+            "Servi\u00e7os": 17,
+            "Cr\u00e9dito": 11,
+            "Seguros": 45
+        }
+    },
+    "Canal_Banner_Cluster_3_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 3,
+            "Seguros": 4
+        }
+    },
+    "Canal_SMS_Cluster_2_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 2,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 5,
+            "Seguros": 1
+        }
+    },
+    "Canal_Banner_Cluster_2_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 4,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 8,
+            "Seguros": 4
+        }
+    },
+    "Canal_Email_Cluster_3_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 11,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 10,
+            "Seguros": 10
+        }
+    },
+    "Canal_App Push_Cluster_3_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 7,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 8,
+            "Seguros": 6
+        }
+    },
+    "Canal_App Push_Cluster_4_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 1,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 17,
+            "Servi\u00e7os": 25,
+            "Cr\u00e9dito": 10,
+            "Seguros": 11
+        }
+    },
+    "Canal_App Push_Cluster_2_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 3,
+            "Seguros": 2
+        }
+    },
+    "Canal_Email_Cluster_5_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 2,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 9,
+            "Seguros": 6
+        }
+    },
+    "Canal_Banner_Cluster_2_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 3,
+            "Seguros": 4
+        }
+    },
+    "Canal_SMS_Cluster_4_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        }
+    },
+    "Canal_Banner_Cluster_4_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 8,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 11,
+            "Seguros": 5
+        }
+    },
+    "Canal_SMS_Cluster_1_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 3,
+            "Seguros": 6
+        }
+    },
+    "Canal_App Push_Cluster_0_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 6,
+            "Seguros": 6
+        }
+    },
+    "Canal_SMS_Cluster_5_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 7
+        },
+        "betas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 6,
+            "Cr\u00e9dito": 3,
+            "Seguros": 1
+        }
+    },
+    "Canal_Banner_Cluster_4_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 3,
+            "Seguros": 3
+        }
+    },
+    "Canal_App Push_Cluster_5_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 3
+        },
+        "betas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 7,
+            "Seguros": 9
+        }
+    },
+    "Canal_Banner_Cluster_3_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 7
+        },
+        "betas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 5,
+            "Seguros": 18
+        }
+    },
+    "Canal_SMS_Cluster_5_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 5,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 10,
+            "Seguros": 5
+        }
+    },
+    "Canal_SMS_Cluster_0_Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 4,
+            "Seguros": 5
+        }
+    },
+    "Canal_App Push_Cluster_2_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 1,
+            "Seguros": 4
+        }
+    },
+    "Canal_App Push_Cluster_0_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 2,
+            "Seguros": 1
+        }
+    },
+    "Canal_Banner_Cluster_4_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        }
+    },
+    "Canal_Email_Cluster_3_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 2,
+            "Seguros": 1
+        }
+    },
+    "Canal_Banner_Cluster_2_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 4,
+            "Seguros": 1
+        }
+    },
+    "Canal_SMS_Cluster_4_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 4,
+            "Seguros": 3
+        }
+    },
+    "Canal_App Push_Cluster_1_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 4
+        },
+        "betas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 3,
+            "Seguros": 4
+        }
+    },
+    "Canal_Email_Cluster_0_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 3,
+            "Seguros": 2
+        }
+    },
+    "Canal_Email_Cluster_2_Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        }
+    },
+    "Canal_Banner_Cluster_1_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 4,
+            "Seguros": 5
+        }
+    },
+    "Canal_App Push_Cluster_3_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 5
+        },
+        "betas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 2,
+            "Seguros": 1
+        }
+    },
+    "Canal_App Push_Cluster_4_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 2,
+            "Seguros": 1
+        }
+    },
+    "Canal_Banner_Cluster_0_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 4,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 3
+        }
+    },
+    "Canal_App Push_Cluster_4_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 2,
+            "Seguros": 1
+        }
+    },
+    "Canal_App Push_Cluster_0_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 6
+        },
+        "betas": {
+            "Investimento": 3,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 2,
+            "Seguros": 6
+        }
+    },
+    "Canal_SMS_Cluster_0_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 5,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 3,
+            "Seguros": 1
+        }
+    },
+    "Canal_Banner_Cluster_2_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        }
+    },
+    "Canal_Banner_Cluster_0_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 2,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        }
+    },
+    "Canal_SMS_Cluster_2_Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 3,
+            "Seguros": 1
+        }
+    },
+    "Canal_Email_Cluster_4_Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        }
+    },
+    "Canal_Banner_Cluster_5_Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        }
+    },
+    "Canal_App Push_Cluster_0_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        }
+    },
+    "Canal_Email_Cluster_1_Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 3
+        }
+    },
+    "Canal_SMS_Cluster_0_Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 1
+        },
+        "betas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 1,
+            "Seguros": 2
         }
     },
     "iteracoes": 1
