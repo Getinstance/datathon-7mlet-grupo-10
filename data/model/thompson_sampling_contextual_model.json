@@ -1,0 +1,129 @@
+{
+    "Emprestimo_0_age_Adulto": {
+        "alphas": {
+            "Investimento": 3354,
+            "Servi\u00e7os": 25,
+            "Cr\u00e9dito": 313,
+            "Seguros": 213
+        },
+        "betas": {
+            "Investimento": 29931,
+            "Servi\u00e7os": 388,
+            "Cr\u00e9dito": 3158,
+            "Seguros": 2202
+        }
+    },
+    "Emprestimo_0_age_Jovem": {
+        "alphas": {
+            "Investimento": 275,
+            "Servi\u00e7os": 412,
+            "Cr\u00e9dito": 567,
+            "Seguros": 218
+        },
+        "betas": {
+            "Investimento": 1548,
+            "Servi\u00e7os": 2149,
+            "Cr\u00e9dito": 3034,
+            "Seguros": 1154
+        }
+    },
+    "Emprestimo_0_age_Senior": {
+        "alphas": {
+            "Investimento": 186,
+            "Servi\u00e7os": 670,
+            "Cr\u00e9dito": 15,
+            "Seguros": 44
+        },
+        "betas": {
+            "Investimento": 718,
+            "Servi\u00e7os": 2356,
+            "Cr\u00e9dito": 92,
+            "Seguros": 217
+        }
+    },
+    "Emprestimo_2_age_Senior": {
+        "alphas": {
+            "Investimento": 7,
+            "Servi\u00e7os": 40,
+            "Cr\u00e9dito": 116,
+            "Seguros": 22
+        },
+        "betas": {
+            "Investimento": 43,
+            "Servi\u00e7os": 134,
+            "Cr\u00e9dito": 345,
+            "Seguros": 75
+        }
+    },
+    "Emprestimo_2_age_Jovem": {
+        "alphas": {
+            "Investimento": 186,
+            "Servi\u00e7os": 10,
+            "Cr\u00e9dito": 127,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 840,
+            "Servi\u00e7os": 85,
+            "Cr\u00e9dito": 578,
+            "Seguros": 39
+        }
+    },
+    "Emprestimo_2_age_Adulto": {
+        "alphas": {
+            "Investimento": 293,
+            "Servi\u00e7os": 17,
+            "Cr\u00e9dito": 368,
+            "Seguros": 18
+        },
+        "betas": {
+            "Investimento": 2862,
+            "Servi\u00e7os": 261,
+            "Cr\u00e9dito": 3445,
+            "Seguros": 256
+        }
+    },
+    "Emprestimo_1_age_Adulto": {
+        "alphas": {
+            "Investimento": 1,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 2,
+            "Seguros": 105
+        },
+        "betas": {
+            "Investimento": 50,
+            "Servi\u00e7os": 95,
+            "Cr\u00e9dito": 57,
+            "Seguros": 731
+        }
+    },
+    "Emprestimo_1_age_Jovem": {
+        "alphas": {
+            "Investimento": 25,
+            "Servi\u00e7os": 7,
+            "Cr\u00e9dito": 10,
+            "Seguros": 8
+        },
+        "betas": {
+            "Investimento": 86,
+            "Servi\u00e7os": 35,
+            "Cr\u00e9dito": 46,
+            "Seguros": 44
+        }
+    },
+    "Emprestimo_1_age_Senior": {
+        "alphas": {
+            "Investimento": 6,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 20,
+            "Seguros": 2
+        },
+        "betas": {
+            "Investimento": 24,
+            "Servi\u00e7os": 13,
+            "Cr\u00e9dito": 42,
+            "Seguros": 10
+        }
+    },
+    "iteracoes": 1
+}
