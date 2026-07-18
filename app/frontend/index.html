@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FIAP BANK Demo</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        font-family: Inter, Arial, sans-serif;
+      }
+      body {
+        margin: 0;
+        background: linear-gradient(135deg, #071422 0%, #0f2d4b 100%);
+        color: #f4f7fb;
+        min-height: 100vh;
+      }
+      .container {
+        max-width: 860px;
+        margin: 0 auto;
+        padding: 2rem 1.2rem 3rem;
+      }
+      .hero {
+        background: rgba(8, 21, 39, 0.85);
+        border: 1px solid rgba(255,255,255,0.1);
+        border-radius: 16px;
+        padding: 1.4rem;
+        box-shadow: 0 18px 28px rgba(0,0,0,0.25);
+      }
+      h1 { margin-top: 0; font-size: 2rem; }
+      .grid { display: grid; gap: 1rem; margin-top: 1rem; }
+      .card { padding: 1rem; border-radius: 14px; background: rgba(255,255,255,0.08); }
+      select, button { width: 100%; padding: 0.8rem 1rem; border-radius: 10px; border: 0; font-size: 1rem; }
+      button { background: #37b6ff; color: #071422; font-weight: 700; cursor: pointer; margin-top: 0.6rem; }
+      .offer-banner { background: linear-gradient(90deg, #1d7dff 0%, #37b6ff 100%); color: #071422; padding: 1.2rem; border-radius: 14px; font-weight: 700; }
+      .muted { color: #a8b7cc; font-size: 0.95rem; }
+      code { background: rgba(255,255,255,0.18); border-radius: 6px; padding: 0.16rem 0.3rem; }
+    </style>
+  </head>
+  <body>
+    <main class="container">
+      <section class="hero">
+        <h1>FIAP BANK · Demonstração de ofertas</h1>
+        <p class="muted">Escolha um perfil de cliente e veja a sugestão de oferta gerada pelo modelo contextual de Thompson Sampling.</p>
+        <div class="grid">
+          <div class="card">
+            <label for="profileSelect">Perfil do cliente</label>
+            <select id="profileSelect"></select>
+            <button id="recommendButton">Consultar recomendação</button>
+          </div>
+          <div id="result" class="card">
+            <p class="muted">Nenhum perfil selecionado ainda.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>
