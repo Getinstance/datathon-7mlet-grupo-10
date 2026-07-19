@@ -2,225 +2,225 @@
     "Canal_App Push_Cluster_4_Emprestimo_0_age_Adulto": {
         "alphas": {
             "Investimento": 21,
-            "Servi\u00e7os": 677,
+            "Servi\u00e7os": 410,
             "Cr\u00e9dito": 4,
-            "Seguros": 39
+            "Seguros": 38
         },
         "betas": {
-            "Investimento": 248,
-            "Servi\u00e7os": 4782,
-            "Cr\u00e9dito": 92,
-            "Seguros": 414
+            "Investimento": 223,
+            "Servi\u00e7os": 2945,
+            "Cr\u00e9dito": 91,
+            "Seguros": 409
         }
     },
     "Canal_App Push_Cluster_4_Emprestimo_0_age_Jovem": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 36,
-            "Cr\u00e9dito": 17,
-            "Seguros": 37
+            "Servi\u00e7os": 23,
+            "Cr\u00e9dito": 11,
+            "Seguros": 16
         },
         "betas": {
-            "Investimento": 33,
-            "Servi\u00e7os": 312,
-            "Cr\u00e9dito": 145,
-            "Seguros": 266
+            "Investimento": 28,
+            "Servi\u00e7os": 210,
+            "Cr\u00e9dito": 104,
+            "Seguros": 158
         }
     },
     "Canal_SMS_Cluster_3_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 249,
-            "Servi\u00e7os": 20,
-            "Cr\u00e9dito": 36,
-            "Seguros": 3
+            "Investimento": 149,
+            "Servi\u00e7os": 18,
+            "Cr\u00e9dito": 26,
+            "Seguros": 2
         },
         "betas": {
-            "Investimento": 2427,
-            "Servi\u00e7os": 301,
-            "Cr\u00e9dito": 431,
-            "Seguros": 67
+            "Investimento": 1502,
+            "Servi\u00e7os": 278,
+            "Cr\u00e9dito": 315,
+            "Seguros": 44
         }
     },
     "Canal_Banner_Cluster_2_Emprestimo_0_age_Senior": {
         "alphas": {
-            "Investimento": 134,
-            "Servi\u00e7os": 132,
-            "Cr\u00e9dito": 60,
-            "Seguros": 17
+            "Investimento": 79,
+            "Servi\u00e7os": 94,
+            "Cr\u00e9dito": 40,
+            "Seguros": 13
         },
         "betas": {
-            "Investimento": 419,
-            "Servi\u00e7os": 421,
-            "Cr\u00e9dito": 209,
-            "Seguros": 80
+            "Investimento": 259,
+            "Servi\u00e7os": 293,
+            "Cr\u00e9dito": 143,
+            "Seguros": 64
         }
     },
     "Canal_Email_Cluster_4_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 141,
-            "Servi\u00e7os": 42,
-            "Cr\u00e9dito": 279,
-            "Seguros": 54
+            "Investimento": 88,
+            "Servi\u00e7os": 34,
+            "Cr\u00e9dito": 163,
+            "Seguros": 48
         },
         "betas": {
-            "Investimento": 1575,
-            "Servi\u00e7os": 566,
-            "Cr\u00e9dito": 3005,
-            "Seguros": 714
+            "Investimento": 988,
+            "Servi\u00e7os": 475,
+            "Cr\u00e9dito": 1720,
+            "Seguros": 576
         }
     },
     "Canal_Banner_Cluster_4_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 151,
-            "Servi\u00e7os": 30,
-            "Cr\u00e9dito": 630,
-            "Seguros": 115
+            "Investimento": 108,
+            "Servi\u00e7os": 28,
+            "Cr\u00e9dito": 407,
+            "Seguros": 71
         },
         "betas": {
-            "Investimento": 1368,
-            "Servi\u00e7os": 376,
-            "Cr\u00e9dito": 5270,
-            "Seguros": 1014
+            "Investimento": 1004,
+            "Servi\u00e7os": 346,
+            "Cr\u00e9dito": 3369,
+            "Seguros": 641
         }
     },
     "Canal_Email_Cluster_2_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 14,
-            "Servi\u00e7os": 88,
+            "Investimento": 12,
+            "Servi\u00e7os": 79,
             "Cr\u00e9dito": 13,
-            "Seguros": 482
+            "Seguros": 280
         },
         "betas": {
-            "Investimento": 140,
-            "Servi\u00e7os": 621,
-            "Cr\u00e9dito": 159,
-            "Seguros": 2781
+            "Investimento": 124,
+            "Servi\u00e7os": 544,
+            "Cr\u00e9dito": 152,
+            "Seguros": 1644
         }
     },
     "Canal_Email_Cluster_3_Emprestimo_2_age_Senior": {
         "alphas": {
-            "Investimento": 29,
-            "Servi\u00e7os": 24,
-            "Cr\u00e9dito": 8,
+            "Investimento": 19,
+            "Servi\u00e7os": 18,
+            "Cr\u00e9dito": 5,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 79,
-            "Servi\u00e7os": 64,
-            "Cr\u00e9dito": 33,
-            "Seguros": 10
+            "Investimento": 52,
+            "Servi\u00e7os": 42,
+            "Cr\u00e9dito": 21,
+            "Seguros": 9
         }
     },
     "Canal_Email_Cluster_5_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 224,
-            "Servi\u00e7os": 14,
-            "Cr\u00e9dito": 143,
-            "Seguros": 57
+            "Investimento": 110,
+            "Servi\u00e7os": 12,
+            "Cr\u00e9dito": 111,
+            "Seguros": 49
         },
         "betas": {
-            "Investimento": 1376,
-            "Servi\u00e7os": 146,
-            "Cr\u00e9dito": 1000,
-            "Seguros": 442
+            "Investimento": 716,
+            "Servi\u00e7os": 120,
+            "Cr\u00e9dito": 790,
+            "Seguros": 366
         }
     },
     "Canal_App Push_Cluster_1_Emprestimo_0_age_Jovem": {
         "alphas": {
-            "Investimento": 12,
-            "Servi\u00e7os": 7,
+            "Investimento": 9,
+            "Servi\u00e7os": 5,
             "Cr\u00e9dito": 7,
-            "Seguros": 53
+            "Seguros": 34
         },
         "betas": {
-            "Investimento": 168,
-            "Servi\u00e7os": 101,
-            "Cr\u00e9dito": 118,
-            "Seguros": 496
+            "Investimento": 130,
+            "Servi\u00e7os": 81,
+            "Cr\u00e9dito": 101,
+            "Seguros": 283
         }
     },
     "Canal_App Push_Cluster_5_Emprestimo_0_age_Jovem": {
         "alphas": {
-            "Investimento": 120,
+            "Investimento": 115,
             "Servi\u00e7os": 13,
-            "Cr\u00e9dito": 235,
-            "Seguros": 27
+            "Cr\u00e9dito": 96,
+            "Seguros": 22
         },
         "betas": {
-            "Investimento": 540,
-            "Servi\u00e7os": 100,
-            "Cr\u00e9dito": 759,
-            "Seguros": 146
+            "Investimento": 504,
+            "Servi\u00e7os": 96,
+            "Cr\u00e9dito": 333,
+            "Seguros": 124
         }
     },
     "Canal_Banner_Cluster_5_Emprestimo_0_age_Jovem": {
         "alphas": {
-            "Investimento": 132,
-            "Servi\u00e7os": 56,
-            "Cr\u00e9dito": 203,
-            "Seguros": 228
+            "Investimento": 100,
+            "Servi\u00e7os": 50,
+            "Cr\u00e9dito": 139,
+            "Seguros": 106
         },
         "betas": {
-            "Investimento": 697,
-            "Servi\u00e7os": 332,
-            "Cr\u00e9dito": 1050,
-            "Seguros": 1126
+            "Investimento": 527,
+            "Servi\u00e7os": 282,
+            "Cr\u00e9dito": 706,
+            "Seguros": 557
         }
     },
     "Canal_SMS_Cluster_1_Emprestimo_2_age_Jovem": {
         "alphas": {
-            "Investimento": 21,
-            "Servi\u00e7os": 4,
+            "Investimento": 9,
+            "Servi\u00e7os": 3,
             "Cr\u00e9dito": 7,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 92,
-            "Servi\u00e7os": 31,
-            "Cr\u00e9dito": 52,
-            "Seguros": 14
+            "Investimento": 51,
+            "Servi\u00e7os": 25,
+            "Cr\u00e9dito": 43,
+            "Seguros": 13
         }
     },
     "Canal_App Push_Cluster_2_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 497,
-            "Servi\u00e7os": 15,
-            "Cr\u00e9dito": 29,
-            "Seguros": 52
+            "Investimento": 300,
+            "Servi\u00e7os": 14,
+            "Cr\u00e9dito": 26,
+            "Seguros": 51
         },
         "betas": {
-            "Investimento": 2613,
-            "Servi\u00e7os": 147,
-            "Cr\u00e9dito": 227,
-            "Seguros": 383
+            "Investimento": 1576,
+            "Servi\u00e7os": 136,
+            "Cr\u00e9dito": 205,
+            "Seguros": 352
         }
     },
     "Canal_Email_Cluster_2_Emprestimo_0_age_Senior": {
         "alphas": {
             "Investimento": 4,
-            "Servi\u00e7os": 83,
-            "Cr\u00e9dito": 25,
-            "Seguros": 63
+            "Servi\u00e7os": 51,
+            "Cr\u00e9dito": 22,
+            "Seguros": 41
         },
         "betas": {
-            "Investimento": 38,
-            "Servi\u00e7os": 325,
-            "Cr\u00e9dito": 142,
-            "Seguros": 254
+            "Investimento": 35,
+            "Servi\u00e7os": 211,
+            "Cr\u00e9dito": 113,
+            "Seguros": 161
         }
     },
     "Canal_SMS_Cluster_2_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 664,
-            "Servi\u00e7os": 55,
-            "Cr\u00e9dito": 30,
-            "Seguros": 14
+            "Investimento": 424,
+            "Servi\u00e7os": 42,
+            "Cr\u00e9dito": 24,
+            "Seguros": 12
         },
         "betas": {
-            "Investimento": 4781,
-            "Servi\u00e7os": 497,
-            "Cr\u00e9dito": 302,
-            "Seguros": 166
+            "Investimento": 3006,
+            "Servi\u00e7os": 372,
+            "Cr\u00e9dito": 249,
+            "Seguros": 135
         }
     },
     "Canal_Email_Cluster_1_Emprestimo_2_age_Jovem": {
@@ -228,741 +228,741 @@
             "Investimento": 5,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 12
+            "Seguros": 6
         },
         "betas": {
-            "Investimento": 49,
-            "Servi\u00e7os": 22,
-            "Cr\u00e9dito": 28,
-            "Seguros": 74
+            "Investimento": 35,
+            "Servi\u00e7os": 17,
+            "Cr\u00e9dito": 21,
+            "Seguros": 43
         }
     },
     "Canal_SMS_Cluster_4_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 664,
-            "Servi\u00e7os": 26,
-            "Cr\u00e9dito": 14,
-            "Seguros": 48
+            "Investimento": 391,
+            "Servi\u00e7os": 22,
+            "Cr\u00e9dito": 10,
+            "Seguros": 43
         },
         "betas": {
-            "Investimento": 5097,
-            "Servi\u00e7os": 296,
-            "Cr\u00e9dito": 180,
-            "Seguros": 460
+            "Investimento": 2937,
+            "Servi\u00e7os": 246,
+            "Cr\u00e9dito": 149,
+            "Seguros": 419
         }
     },
     "Canal_SMS_Cluster_0_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 12,
+            "Investimento": 4,
             "Servi\u00e7os": 21,
             "Cr\u00e9dito": 4,
-            "Seguros": 157
+            "Seguros": 99
         },
         "betas": {
-            "Investimento": 83,
-            "Servi\u00e7os": 145,
-            "Cr\u00e9dito": 56,
-            "Seguros": 622
+            "Investimento": 50,
+            "Servi\u00e7os": 139,
+            "Cr\u00e9dito": 53,
+            "Seguros": 392
         }
     },
     "Canal_App Push_Cluster_1_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 382,
-            "Servi\u00e7os": 9,
-            "Cr\u00e9dito": 9,
-            "Seguros": 21
+            "Investimento": 242,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 8,
+            "Seguros": 17
         },
         "betas": {
-            "Investimento": 4063,
-            "Servi\u00e7os": 190,
-            "Cr\u00e9dito": 191,
-            "Seguros": 329
+            "Investimento": 2589,
+            "Servi\u00e7os": 178,
+            "Cr\u00e9dito": 169,
+            "Seguros": 288
         }
     },
     "Canal_Banner_Cluster_1_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 152,
-            "Servi\u00e7os": 391,
-            "Cr\u00e9dito": 72,
-            "Seguros": 27
+            "Investimento": 90,
+            "Servi\u00e7os": 256,
+            "Cr\u00e9dito": 66,
+            "Seguros": 22
         },
         "betas": {
-            "Investimento": 1844,
-            "Servi\u00e7os": 4420,
-            "Cr\u00e9dito": 1038,
-            "Seguros": 450
+            "Investimento": 1091,
+            "Servi\u00e7os": 2868,
+            "Cr\u00e9dito": 916,
+            "Seguros": 376
         }
     },
     "Canal_Email_Cluster_3_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 9,
-            "Servi\u00e7os": 40,
+            "Investimento": 6,
+            "Servi\u00e7os": 24,
             "Cr\u00e9dito": 1,
-            "Seguros": 6
+            "Seguros": 5
         },
         "betas": {
-            "Investimento": 63,
-            "Servi\u00e7os": 180,
-            "Cr\u00e9dito": 27,
-            "Seguros": 49
+            "Investimento": 46,
+            "Servi\u00e7os": 113,
+            "Cr\u00e9dito": 22,
+            "Seguros": 43
         }
     },
     "Canal_Banner_Cluster_2_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 30,
-            "Servi\u00e7os": 460,
-            "Cr\u00e9dito": 223,
-            "Seguros": 73
+            "Investimento": 26,
+            "Servi\u00e7os": 291,
+            "Cr\u00e9dito": 127,
+            "Seguros": 63
         },
         "betas": {
-            "Investimento": 325,
-            "Servi\u00e7os": 3330,
-            "Cr\u00e9dito": 1609,
-            "Seguros": 660
+            "Investimento": 284,
+            "Servi\u00e7os": 2180,
+            "Cr\u00e9dito": 988,
+            "Seguros": 565
         }
     },
     "Canal_SMS_Cluster_1_Emprestimo_0_age_Jovem": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 61,
+            "Servi\u00e7os": 39,
             "Cr\u00e9dito": 4,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 56,
-            "Servi\u00e7os": 727,
-            "Cr\u00e9dito": 102,
-            "Seguros": 38
+            "Investimento": 45,
+            "Servi\u00e7os": 445,
+            "Cr\u00e9dito": 82,
+            "Seguros": 32
         }
     },
     "Canal_Banner_Cluster_4_Emprestimo_0_age_Jovem": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 120,
-            "Cr\u00e9dito": 41,
+            "Servi\u00e7os": 68,
+            "Cr\u00e9dito": 33,
             "Seguros": 10
         },
         "betas": {
-            "Investimento": 26,
-            "Servi\u00e7os": 522,
-            "Cr\u00e9dito": 229,
-            "Seguros": 90
+            "Investimento": 23,
+            "Servi\u00e7os": 296,
+            "Cr\u00e9dito": 180,
+            "Seguros": 83
         }
     },
     "Canal_SMS_Cluster_3_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 76,
+            "Investimento": 47,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 504,
-            "Servi\u00e7os": 31,
-            "Cr\u00e9dito": 31,
-            "Seguros": 26
+            "Investimento": 302,
+            "Servi\u00e7os": 29,
+            "Cr\u00e9dito": 23,
+            "Seguros": 21
         }
     },
     "Canal_App Push_Cluster_3_Emprestimo_0_age_Senior": {
         "alphas": {
-            "Investimento": 38,
-            "Servi\u00e7os": 194,
-            "Cr\u00e9dito": 127,
+            "Investimento": 30,
+            "Servi\u00e7os": 125,
+            "Cr\u00e9dito": 91,
             "Seguros": 3
         },
         "betas": {
-            "Investimento": 144,
-            "Servi\u00e7os": 583,
-            "Cr\u00e9dito": 377,
+            "Investimento": 109,
+            "Servi\u00e7os": 364,
+            "Cr\u00e9dito": 250,
             "Seguros": 30
         }
     },
     "Canal_SMS_Cluster_1_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 283,
-            "Servi\u00e7os": 125,
-            "Cr\u00e9dito": 8,
-            "Seguros": 25
+            "Investimento": 208,
+            "Servi\u00e7os": 65,
+            "Cr\u00e9dito": 7,
+            "Seguros": 19
         },
         "betas": {
-            "Investimento": 4327,
-            "Servi\u00e7os": 1899,
-            "Cr\u00e9dito": 230,
-            "Seguros": 445
+            "Investimento": 3199,
+            "Servi\u00e7os": 976,
+            "Cr\u00e9dito": 182,
+            "Seguros": 342
         }
     },
     "Canal_Email_Cluster_0_Emprestimo_2_age_Adulto": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 7,
-            "Cr\u00e9dito": 10,
-            "Seguros": 19
+            "Servi\u00e7os": 6,
+            "Cr\u00e9dito": 7,
+            "Seguros": 13
         },
         "betas": {
-            "Investimento": 23,
-            "Servi\u00e7os": 38,
-            "Cr\u00e9dito": 71,
-            "Seguros": 104
+            "Investimento": 19,
+            "Servi\u00e7os": 25,
+            "Cr\u00e9dito": 47,
+            "Seguros": 62
         }
     },
     "Canal_Banner_Cluster_4_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 11,
-            "Servi\u00e7os": 54,
-            "Cr\u00e9dito": 18,
-            "Seguros": 52
+            "Investimento": 7,
+            "Servi\u00e7os": 32,
+            "Cr\u00e9dito": 17,
+            "Seguros": 34
         },
         "betas": {
-            "Investimento": 152,
-            "Servi\u00e7os": 484,
-            "Cr\u00e9dito": 232,
-            "Seguros": 478
+            "Investimento": 87,
+            "Servi\u00e7os": 302,
+            "Cr\u00e9dito": 203,
+            "Seguros": 326
         }
     },
     "Canal_Banner_Cluster_3_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 7,
-            "Servi\u00e7os": 92,
+            "Investimento": 6,
+            "Servi\u00e7os": 57,
             "Cr\u00e9dito": 2,
             "Seguros": 3
         },
         "betas": {
-            "Investimento": 56,
-            "Servi\u00e7os": 318,
-            "Cr\u00e9dito": 31,
-            "Seguros": 32
+            "Investimento": 48,
+            "Servi\u00e7os": 203,
+            "Cr\u00e9dito": 30,
+            "Seguros": 27
         }
     },
     "Canal_Banner_Cluster_5_Emprestimo_2_age_Jovem": {
         "alphas": {
-            "Investimento": 56,
-            "Servi\u00e7os": 39,
+            "Investimento": 34,
+            "Servi\u00e7os": 28,
             "Cr\u00e9dito": 4,
             "Seguros": 2
         },
         "betas": {
-            "Investimento": 241,
-            "Servi\u00e7os": 197,
-            "Cr\u00e9dito": 51,
-            "Seguros": 33
+            "Investimento": 153,
+            "Servi\u00e7os": 136,
+            "Cr\u00e9dito": 49,
+            "Seguros": 31
         }
     },
     "Canal_Banner_Cluster_5_Emprestimo_1_age_Adulto": {
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 25,
+            "Cr\u00e9dito": 14,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 12,
-            "Servi\u00e7os": 11,
-            "Cr\u00e9dito": 65,
-            "Seguros": 11
+            "Investimento": 10,
+            "Servi\u00e7os": 10,
+            "Cr\u00e9dito": 37,
+            "Seguros": 9
         }
     },
     "Canal_App Push_Cluster_3_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 73,
-            "Servi\u00e7os": 65,
-            "Cr\u00e9dito": 46,
-            "Seguros": 9
+            "Investimento": 44,
+            "Servi\u00e7os": 30,
+            "Cr\u00e9dito": 40,
+            "Seguros": 7
         },
         "betas": {
-            "Investimento": 854,
-            "Servi\u00e7os": 758,
-            "Cr\u00e9dito": 630,
-            "Seguros": 173
+            "Investimento": 490,
+            "Servi\u00e7os": 389,
+            "Cr\u00e9dito": 529,
+            "Seguros": 146
         }
     },
     "Canal_Email_Cluster_0_Emprestimo_0_age_Jovem": {
         "alphas": {
-            "Investimento": 266,
-            "Servi\u00e7os": 103,
-            "Cr\u00e9dito": 34,
-            "Seguros": 31
+            "Investimento": 222,
+            "Servi\u00e7os": 31,
+            "Cr\u00e9dito": 33,
+            "Seguros": 29
         },
         "betas": {
-            "Investimento": 931,
-            "Servi\u00e7os": 285,
-            "Cr\u00e9dito": 166,
-            "Seguros": 148
+            "Investimento": 732,
+            "Servi\u00e7os": 109,
+            "Cr\u00e9dito": 160,
+            "Seguros": 135
         }
     },
     "Canal_SMS_Cluster_3_Emprestimo_0_age_Senior": {
         "alphas": {
-            "Investimento": 79,
-            "Servi\u00e7os": 107,
-            "Cr\u00e9dito": 22,
-            "Seguros": 81
+            "Investimento": 68,
+            "Servi\u00e7os": 46,
+            "Cr\u00e9dito": 19,
+            "Seguros": 58
         },
         "betas": {
-            "Investimento": 334,
-            "Servi\u00e7os": 365,
-            "Cr\u00e9dito": 109,
-            "Seguros": 301
+            "Investimento": 275,
+            "Servi\u00e7os": 165,
+            "Cr\u00e9dito": 94,
+            "Seguros": 212
         }
     },
     "Canal_Banner_Cluster_3_Emprestimo_0_age_Senior": {
         "alphas": {
-            "Investimento": 376,
-            "Servi\u00e7os": 59,
-            "Cr\u00e9dito": 62,
-            "Seguros": 7
+            "Investimento": 233,
+            "Servi\u00e7os": 41,
+            "Cr\u00e9dito": 57,
+            "Seguros": 5
         },
         "betas": {
-            "Investimento": 1461,
-            "Servi\u00e7os": 268,
-            "Cr\u00e9dito": 311,
-            "Seguros": 59
+            "Investimento": 897,
+            "Servi\u00e7os": 197,
+            "Cr\u00e9dito": 262,
+            "Seguros": 48
         }
     },
     "Canal_Email_Cluster_4_Emprestimo_0_age_Senior": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 79,
+            "Servi\u00e7os": 49,
             "Cr\u00e9dito": 7,
             "Seguros": 1
         },
         "betas": {
             "Investimento": 6,
-            "Servi\u00e7os": 48,
-            "Cr\u00e9dito": 20,
+            "Servi\u00e7os": 30,
+            "Cr\u00e9dito": 19,
             "Seguros": 6
         }
     },
     "Canal_SMS_Cluster_0_Emprestimo_0_age_Jovem": {
         "alphas": {
-            "Investimento": 353,
-            "Servi\u00e7os": 6,
-            "Cr\u00e9dito": 31,
-            "Seguros": 32
+            "Investimento": 195,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 25,
+            "Seguros": 26
         },
         "betas": {
-            "Investimento": 1519,
-            "Servi\u00e7os": 47,
-            "Cr\u00e9dito": 184,
-            "Seguros": 179
+            "Investimento": 878,
+            "Servi\u00e7os": 29,
+            "Cr\u00e9dito": 167,
+            "Seguros": 146
         }
     },
     "Canal_Banner_Cluster_0_Emprestimo_0_age_Jovem": {
         "alphas": {
             "Investimento": 19,
-            "Servi\u00e7os": 61,
-            "Cr\u00e9dito": 600,
-            "Seguros": 77
+            "Servi\u00e7os": 52,
+            "Cr\u00e9dito": 345,
+            "Seguros": 72
         },
         "betas": {
-            "Investimento": 104,
-            "Servi\u00e7os": 240,
-            "Cr\u00e9dito": 1831,
-            "Seguros": 305
+            "Investimento": 94,
+            "Servi\u00e7os": 195,
+            "Cr\u00e9dito": 1042,
+            "Seguros": 282
         }
     },
     "Canal_SMS_Cluster_5_Emprestimo_0_age_Adulto": {
         "alphas": {
             "Investimento": 16,
-            "Servi\u00e7os": 117,
-            "Cr\u00e9dito": 256,
+            "Servi\u00e7os": 95,
+            "Cr\u00e9dito": 123,
             "Seguros": 13
         },
         "betas": {
-            "Investimento": 205,
-            "Servi\u00e7os": 895,
-            "Cr\u00e9dito": 1768,
-            "Seguros": 153
+            "Investimento": 197,
+            "Servi\u00e7os": 753,
+            "Cr\u00e9dito": 873,
+            "Seguros": 137
         }
     },
     "Canal_SMS_Cluster_0_Emprestimo_1_age_Jovem": {
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 16,
+            "Cr\u00e9dito": 10,
             "Seguros": 1
         },
         "betas": {
             "Investimento": 6,
-            "Servi\u00e7os": 7,
-            "Cr\u00e9dito": 16,
-            "Seguros": 5
+            "Servi\u00e7os": 6,
+            "Cr\u00e9dito": 11,
+            "Seguros": 4
         }
     },
     "Canal_Email_Cluster_1_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 3,
-            "Servi\u00e7os": 44,
-            "Cr\u00e9dito": 17,
-            "Seguros": 27
+            "Investimento": 2,
+            "Servi\u00e7os": 23,
+            "Cr\u00e9dito": 15,
+            "Seguros": 23
         },
         "betas": {
-            "Investimento": 60,
-            "Servi\u00e7os": 259,
-            "Cr\u00e9dito": 189,
-            "Seguros": 250
+            "Investimento": 56,
+            "Servi\u00e7os": 137,
+            "Cr\u00e9dito": 171,
+            "Seguros": 220
         }
     },
     "Canal_Email_Cluster_2_Emprestimo_2_age_Adulto": {
         "alphas": {
             "Investimento": 5,
             "Servi\u00e7os": 3,
-            "Cr\u00e9dito": 127,
-            "Seguros": 4
+            "Cr\u00e9dito": 77,
+            "Seguros": 3
         },
         "betas": {
-            "Investimento": 79,
-            "Servi\u00e7os": 57,
-            "Cr\u00e9dito": 870,
-            "Seguros": 58
+            "Investimento": 70,
+            "Servi\u00e7os": 50,
+            "Cr\u00e9dito": 529,
+            "Seguros": 46
         }
     },
     "Canal_Email_Cluster_4_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 57,
-            "Servi\u00e7os": 24,
+            "Investimento": 15,
+            "Servi\u00e7os": 22,
             "Cr\u00e9dito": 10,
-            "Seguros": 14
+            "Seguros": 13
         },
         "betas": {
-            "Investimento": 378,
-            "Servi\u00e7os": 216,
-            "Cr\u00e9dito": 132,
-            "Seguros": 148
+            "Investimento": 120,
+            "Servi\u00e7os": 181,
+            "Cr\u00e9dito": 123,
+            "Seguros": 127
         }
     },
     "Canal_SMS_Cluster_4_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 22,
+            "Investimento": 19,
             "Servi\u00e7os": 4,
-            "Cr\u00e9dito": 187,
+            "Cr\u00e9dito": 115,
             "Seguros": 2
         },
         "betas": {
-            "Investimento": 130,
-            "Servi\u00e7os": 40,
-            "Cr\u00e9dito": 728,
-            "Seguros": 31
+            "Investimento": 108,
+            "Servi\u00e7os": 30,
+            "Cr\u00e9dito": 456,
+            "Seguros": 24
         }
     },
     "Canal_Banner_Cluster_2_Emprestimo_2_age_Senior": {
         "alphas": {
-            "Investimento": 33,
+            "Investimento": 17,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 11,
-            "Seguros": 5
+            "Cr\u00e9dito": 10,
+            "Seguros": 4
         },
         "betas": {
-            "Investimento": 98,
-            "Servi\u00e7os": 14,
-            "Cr\u00e9dito": 50,
-            "Seguros": 31
+            "Investimento": 54,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 35,
+            "Seguros": 24
         }
     },
     "Canal_Email_Cluster_1_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 128,
-            "Servi\u00e7os": 55,
-            "Cr\u00e9dito": 207,
-            "Seguros": 65
+            "Investimento": 95,
+            "Servi\u00e7os": 50,
+            "Cr\u00e9dito": 118,
+            "Seguros": 41
         },
         "betas": {
-            "Investimento": 1785,
-            "Servi\u00e7os": 883,
-            "Cr\u00e9dito": 2879,
-            "Seguros": 987
+            "Investimento": 1202,
+            "Servi\u00e7os": 729,
+            "Cr\u00e9dito": 1559,
+            "Seguros": 651
         }
     },
     "Canal_Email_Cluster_5_Emprestimo_0_age_Jovem": {
         "alphas": {
-            "Investimento": 51,
+            "Investimento": 38,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 597,
-            "Seguros": 3
+            "Cr\u00e9dito": 380,
+            "Seguros": 2
         },
         "betas": {
-            "Investimento": 262,
+            "Investimento": 208,
             "Servi\u00e7os": 27,
-            "Cr\u00e9dito": 2470,
-            "Seguros": 38
+            "Cr\u00e9dito": 1575,
+            "Seguros": 32
         }
     },
     "Canal_Email_Cluster_3_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 17,
-            "Servi\u00e7os": 39,
-            "Cr\u00e9dito": 235,
-            "Seguros": 36
+            "Investimento": 9,
+            "Servi\u00e7os": 28,
+            "Cr\u00e9dito": 137,
+            "Seguros": 31
         },
         "betas": {
-            "Investimento": 190,
-            "Servi\u00e7os": 397,
-            "Cr\u00e9dito": 2015,
-            "Seguros": 385
+            "Investimento": 123,
+            "Servi\u00e7os": 274,
+            "Cr\u00e9dito": 1200,
+            "Seguros": 323
         }
     },
     "Canal_Banner_Cluster_3_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 56,
-            "Servi\u00e7os": 49,
-            "Cr\u00e9dito": 75,
-            "Seguros": 97
+            "Investimento": 34,
+            "Servi\u00e7os": 33,
+            "Cr\u00e9dito": 39,
+            "Seguros": 69
         },
         "betas": {
-            "Investimento": 791,
-            "Servi\u00e7os": 696,
-            "Cr\u00e9dito": 999,
-            "Seguros": 1334
+            "Investimento": 499,
+            "Servi\u00e7os": 482,
+            "Cr\u00e9dito": 574,
+            "Seguros": 939
         }
     },
     "Canal_Banner_Cluster_1_Emprestimo_0_age_Jovem": {
         "alphas": {
-            "Investimento": 70,
-            "Servi\u00e7os": 72,
+            "Investimento": 61,
+            "Servi\u00e7os": 42,
             "Cr\u00e9dito": 1,
-            "Seguros": 11
+            "Seguros": 3
         },
         "betas": {
-            "Investimento": 547,
-            "Servi\u00e7os": 499,
-            "Cr\u00e9dito": 38,
-            "Seguros": 112
+            "Investimento": 432,
+            "Servi\u00e7os": 282,
+            "Cr\u00e9dito": 32,
+            "Seguros": 51
         }
     },
     "Canal_App Push_Cluster_2_Emprestimo_0_age_Senior": {
         "alphas": {
-            "Investimento": 10,
-            "Servi\u00e7os": 23,
-            "Cr\u00e9dito": 118,
-            "Seguros": 128
+            "Investimento": 8,
+            "Servi\u00e7os": 17,
+            "Cr\u00e9dito": 99,
+            "Seguros": 51
         },
         "betas": {
-            "Investimento": 47,
-            "Servi\u00e7os": 79,
-            "Cr\u00e9dito": 298,
-            "Seguros": 277
+            "Investimento": 36,
+            "Servi\u00e7os": 61,
+            "Cr\u00e9dito": 246,
+            "Seguros": 117
         }
     },
     "Canal_Banner_Cluster_5_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 567,
-            "Servi\u00e7os": 50,
-            "Cr\u00e9dito": 19,
+            "Investimento": 358,
+            "Servi\u00e7os": 46,
+            "Cr\u00e9dito": 18,
             "Seguros": 3
         },
         "betas": {
-            "Investimento": 3032,
-            "Servi\u00e7os": 346,
-            "Cr\u00e9dito": 174,
-            "Seguros": 64
+            "Investimento": 1886,
+            "Servi\u00e7os": 318,
+            "Cr\u00e9dito": 158,
+            "Seguros": 59
         }
     },
     "Canal_App Push_Cluster_5_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 110,
-            "Servi\u00e7os": 156,
-            "Cr\u00e9dito": 63,
-            "Seguros": 12
+            "Investimento": 78,
+            "Servi\u00e7os": 114,
+            "Cr\u00e9dito": 31,
+            "Seguros": 11
         },
         "betas": {
-            "Investimento": 790,
-            "Servi\u00e7os": 1144,
-            "Cr\u00e9dito": 463,
-            "Seguros": 145
+            "Investimento": 534,
+            "Servi\u00e7os": 830,
+            "Cr\u00e9dito": 225,
+            "Seguros": 136
         }
     },
     "Canal_Email_Cluster_4_Emprestimo_1_age_Adulto": {
         "alphas": {
-            "Investimento": 12,
+            "Investimento": 6,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 4,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 34,
-            "Servi\u00e7os": 13,
-            "Cr\u00e9dito": 26,
+            "Investimento": 19,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 23,
             "Seguros": 12
         }
     },
     "Canal_Email_Cluster_3_Emprestimo_0_age_Senior": {
         "alphas": {
-            "Investimento": 126,
-            "Servi\u00e7os": 122,
-            "Cr\u00e9dito": 101,
-            "Seguros": 9
+            "Investimento": 112,
+            "Servi\u00e7os": 65,
+            "Cr\u00e9dito": 87,
+            "Seguros": 5
         },
         "betas": {
-            "Investimento": 440,
-            "Servi\u00e7os": 357,
-            "Cr\u00e9dito": 364,
-            "Seguros": 52
+            "Investimento": 373,
+            "Servi\u00e7os": 185,
+            "Cr\u00e9dito": 316,
+            "Seguros": 34
         }
     },
     "Canal_Banner_Cluster_5_Emprestimo_1_age_Jovem": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 2,
-            "Cr\u00e9dito": 17,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 11,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 9,
+            "Investimento": 6,
             "Servi\u00e7os": 6,
-            "Cr\u00e9dito": 27,
+            "Cr\u00e9dito": 16,
             "Seguros": 8
         }
     },
     "Canal_SMS_Cluster_5_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 38,
+            "Investimento": 20,
             "Servi\u00e7os": 3,
-            "Cr\u00e9dito": 17,
+            "Cr\u00e9dito": 12,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 392,
-            "Servi\u00e7os": 71,
-            "Cr\u00e9dito": 201,
-            "Seguros": 35
+            "Investimento": 212,
+            "Servi\u00e7os": 62,
+            "Cr\u00e9dito": 152,
+            "Seguros": 29
         }
     },
     "Canal_App Push_Cluster_0_Emprestimo_2_age_Jovem": {
         "alphas": {
-            "Investimento": 25,
+            "Investimento": 19,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 74,
+            "Cr\u00e9dito": 44,
             "Seguros": 5
         },
         "betas": {
-            "Investimento": 56,
-            "Servi\u00e7os": 10,
-            "Cr\u00e9dito": 123,
-            "Seguros": 22
+            "Investimento": 46,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 74,
+            "Seguros": 18
         }
     },
     "Canal_SMS_Cluster_5_Emprestimo_0_age_Jovem": {
         "alphas": {
-            "Investimento": 66,
-            "Servi\u00e7os": 26,
-            "Cr\u00e9dito": 50,
-            "Seguros": 151
+            "Investimento": 59,
+            "Servi\u00e7os": 15,
+            "Cr\u00e9dito": 37,
+            "Seguros": 89
         },
         "betas": {
-            "Investimento": 348,
-            "Servi\u00e7os": 139,
-            "Cr\u00e9dito": 274,
-            "Seguros": 617
+            "Investimento": 293,
+            "Servi\u00e7os": 105,
+            "Cr\u00e9dito": 211,
+            "Seguros": 380
         }
     },
     "Canal_SMS_Cluster_3_Emprestimo_2_age_Senior": {
         "alphas": {
-            "Investimento": 97,
+            "Investimento": 57,
             "Servi\u00e7os": 2,
             "Cr\u00e9dito": 3,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 157,
+            "Investimento": 95,
             "Servi\u00e7os": 13,
             "Cr\u00e9dito": 17,
-            "Seguros": 7
+            "Seguros": 5
         }
     },
     "Canal_App Push_Cluster_3_Emprestimo_2_age_Senior": {
         "alphas": {
             "Investimento": 3,
-            "Servi\u00e7os": 53,
+            "Servi\u00e7os": 30,
             "Cr\u00e9dito": 1,
             "Seguros": 17
         },
         "betas": {
             "Investimento": 18,
-            "Servi\u00e7os": 132,
+            "Servi\u00e7os": 74,
             "Cr\u00e9dito": 12,
-            "Seguros": 65
+            "Seguros": 52
         }
     },
     "Canal_Banner_Cluster_0_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 31,
-            "Servi\u00e7os": 33,
-            "Cr\u00e9dito": 245,
-            "Seguros": 205
+            "Investimento": 26,
+            "Servi\u00e7os": 31,
+            "Cr\u00e9dito": 128,
+            "Seguros": 149
         },
         "betas": {
-            "Investimento": 218,
-            "Servi\u00e7os": 235,
-            "Cr\u00e9dito": 1236,
-            "Seguros": 1138
+            "Investimento": 195,
+            "Servi\u00e7os": 205,
+            "Cr\u00e9dito": 644,
+            "Seguros": 813
         }
     },
     "Canal_App Push_Cluster_0_Emprestimo_0_age_Jovem": {
         "alphas": {
-            "Investimento": 174,
-            "Servi\u00e7os": 30,
+            "Investimento": 131,
+            "Servi\u00e7os": 27,
             "Cr\u00e9dito": 9,
-            "Seguros": 225
+            "Seguros": 131
         },
         "betas": {
-            "Investimento": 552,
-            "Servi\u00e7os": 126,
-            "Cr\u00e9dito": 59,
-            "Seguros": 643
+            "Investimento": 400,
+            "Servi\u00e7os": 103,
+            "Cr\u00e9dito": 55,
+            "Seguros": 364
         }
     },
     "Canal_Banner_Cluster_2_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 83,
+            "Investimento": 45,
             "Servi\u00e7os": 8,
             "Cr\u00e9dito": 3,
-            "Seguros": 62
+            "Seguros": 47
         },
         "betas": {
-            "Investimento": 588,
-            "Servi\u00e7os": 112,
-            "Cr\u00e9dito": 65,
-            "Seguros": 499
+            "Investimento": 321,
+            "Servi\u00e7os": 105,
+            "Cr\u00e9dito": 60,
+            "Seguros": 368
         }
     },
     "Canal_SMS_Cluster_2_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 41,
-            "Servi\u00e7os": 76,
+            "Investimento": 20,
+            "Servi\u00e7os": 56,
             "Cr\u00e9dito": 2,
-            "Seguros": 7
+            "Seguros": 2
         },
         "betas": {
-            "Investimento": 305,
-            "Servi\u00e7os": 536,
-            "Cr\u00e9dito": 43,
-            "Seguros": 49
+            "Investimento": 171,
+            "Servi\u00e7os": 385,
+            "Cr\u00e9dito": 33,
+            "Seguros": 35
         }
     },
     "Canal_Email_Cluster_0_Emprestimo_2_age_Jovem": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 25,
-            "Cr\u00e9dito": 88,
+            "Servi\u00e7os": 18,
+            "Cr\u00e9dito": 59,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 14,
-            "Servi\u00e7os": 67,
-            "Cr\u00e9dito": 210,
-            "Seguros": 13
+            "Investimento": 12,
+            "Servi\u00e7os": 45,
+            "Cr\u00e9dito": 131,
+            "Seguros": 12
         }
     },
     "Canal_SMS_Cluster_2_Emprestimo_0_age_Senior": {
         "alphas": {
-            "Investimento": 28,
-            "Servi\u00e7os": 14,
-            "Cr\u00e9dito": 28,
-            "Seguros": 73
+            "Investimento": 24,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 20,
+            "Seguros": 46
         },
         "betas": {
-            "Investimento": 131,
-            "Servi\u00e7os": 73,
-            "Cr\u00e9dito": 115,
-            "Seguros": 221
+            "Investimento": 106,
+            "Servi\u00e7os": 47,
+            "Cr\u00e9dito": 79,
+            "Seguros": 146
         }
     },
     "Canal_SMS_Cluster_4_Emprestimo_0_age_Jovem": {
@@ -970,41 +970,41 @@
             "Investimento": 5,
             "Servi\u00e7os": 5,
             "Cr\u00e9dito": 5,
-            "Seguros": 110
+            "Seguros": 69
         },
         "betas": {
-            "Investimento": 42,
-            "Servi\u00e7os": 40,
-            "Cr\u00e9dito": 41,
-            "Seguros": 339
+            "Investimento": 39,
+            "Servi\u00e7os": 36,
+            "Cr\u00e9dito": 40,
+            "Seguros": 210
         }
     },
     "Canal_SMS_Cluster_1_Emprestimo_2_age_Adulto": {
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 19,
-            "Cr\u00e9dito": 14,
-            "Seguros": 63
+            "Cr\u00e9dito": 11,
+            "Seguros": 37
         },
         "betas": {
-            "Investimento": 44,
-            "Servi\u00e7os": 239,
-            "Cr\u00e9dito": 159,
-            "Seguros": 508
+            "Investimento": 39,
+            "Servi\u00e7os": 205,
+            "Cr\u00e9dito": 111,
+            "Seguros": 298
         }
     },
     "Canal_Email_Cluster_2_Emprestimo_2_age_Senior": {
         "alphas": {
             "Investimento": 4,
             "Servi\u00e7os": 4,
-            "Cr\u00e9dito": 104,
+            "Cr\u00e9dito": 61,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 17,
-            "Servi\u00e7os": 17,
-            "Cr\u00e9dito": 176,
-            "Seguros": 10
+            "Investimento": 13,
+            "Servi\u00e7os": 15,
+            "Cr\u00e9dito": 99,
+            "Seguros": 8
         }
     },
     "Canal_Email_Cluster_4_Emprestimo_2_age_Jovem": {
@@ -1012,181 +1012,181 @@
             "Investimento": 1,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 2,
-            "Seguros": 28
+            "Seguros": 15
         },
         "betas": {
-            "Investimento": 12,
-            "Servi\u00e7os": 13,
-            "Cr\u00e9dito": 23,
-            "Seguros": 122
+            "Investimento": 10,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 18,
+            "Seguros": 64
         }
     },
     "Canal_App Push_Cluster_4_Emprestimo_2_age_Jovem": {
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 29,
+            "Cr\u00e9dito": 17,
             "Seguros": 1
         },
         "betas": {
             "Investimento": 7,
             "Servi\u00e7os": 8,
-            "Cr\u00e9dito": 33,
-            "Seguros": 9
+            "Cr\u00e9dito": 21,
+            "Seguros": 8
         }
     },
     "Canal_Banner_Cluster_1_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 8,
+            "Investimento": 4,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 27,
-            "Seguros": 45
+            "Cr\u00e9dito": 23,
+            "Seguros": 27
         },
         "betas": {
-            "Investimento": 185,
-            "Servi\u00e7os": 74,
-            "Cr\u00e9dito": 602,
-            "Seguros": 846
+            "Investimento": 103,
+            "Servi\u00e7os": 65,
+            "Cr\u00e9dito": 481,
+            "Seguros": 499
         }
     },
     "Canal_SMS_Cluster_4_Emprestimo_0_age_Senior": {
         "alphas": {
-            "Investimento": 18,
-            "Servi\u00e7os": 31,
-            "Cr\u00e9dito": 6,
-            "Seguros": 6
+            "Investimento": 12,
+            "Servi\u00e7os": 19,
+            "Cr\u00e9dito": 4,
+            "Seguros": 5
         },
         "betas": {
-            "Investimento": 65,
-            "Servi\u00e7os": 102,
-            "Cr\u00e9dito": 34,
-            "Seguros": 24
+            "Investimento": 43,
+            "Servi\u00e7os": 56,
+            "Cr\u00e9dito": 29,
+            "Seguros": 15
         }
     },
     "Canal_App Push_Cluster_1_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 34,
-            "Servi\u00e7os": 10,
-            "Cr\u00e9dito": 22,
-            "Seguros": 5
+            "Investimento": 26,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 10,
+            "Seguros": 4
         },
         "betas": {
-            "Investimento": 439,
-            "Servi\u00e7os": 176,
-            "Cr\u00e9dito": 268,
-            "Seguros": 113
+            "Investimento": 317,
+            "Servi\u00e7os": 144,
+            "Cr\u00e9dito": 119,
+            "Seguros": 83
         }
     },
     "Canal_App Push_Cluster_4_Emprestimo_0_age_Senior": {
         "alphas": {
-            "Investimento": 44,
-            "Servi\u00e7os": 18,
+            "Investimento": 25,
+            "Servi\u00e7os": 14,
             "Cr\u00e9dito": 1,
             "Seguros": 2
         },
         "betas": {
-            "Investimento": 89,
-            "Servi\u00e7os": 48,
-            "Cr\u00e9dito": 13,
-            "Seguros": 15
+            "Investimento": 50,
+            "Servi\u00e7os": 40,
+            "Cr\u00e9dito": 10,
+            "Seguros": 13
         }
     },
     "Canal_Email_Cluster_0_Emprestimo_0_age_Adulto": {
         "alphas": {
-            "Investimento": 198,
-            "Servi\u00e7os": 28,
+            "Investimento": 118,
+            "Servi\u00e7os": 25,
             "Cr\u00e9dito": 9,
-            "Seguros": 7
+            "Seguros": 6
         },
         "betas": {
-            "Investimento": 1352,
-            "Servi\u00e7os": 248,
-            "Cr\u00e9dito": 130,
-            "Seguros": 92
+            "Investimento": 770,
+            "Servi\u00e7os": 206,
+            "Cr\u00e9dito": 122,
+            "Seguros": 83
         }
     },
     "Canal_Email_Cluster_4_Emprestimo_0_age_Jovem": {
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 8,
-            "Seguros": 78
+            "Cr\u00e9dito": 7,
+            "Seguros": 51
         },
         "betas": {
-            "Investimento": 30,
-            "Servi\u00e7os": 30,
-            "Cr\u00e9dito": 95,
-            "Seguros": 559
+            "Investimento": 28,
+            "Servi\u00e7os": 26,
+            "Cr\u00e9dito": 79,
+            "Seguros": 348
         }
     },
     "Canal_Banner_Cluster_0_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 11,
-            "Servi\u00e7os": 28,
+            "Investimento": 9,
+            "Servi\u00e7os": 14,
             "Cr\u00e9dito": 2,
             "Seguros": 3
         },
         "betas": {
-            "Investimento": 111,
-            "Servi\u00e7os": 209,
-            "Cr\u00e9dito": 45,
-            "Seguros": 53
+            "Investimento": 90,
+            "Servi\u00e7os": 113,
+            "Cr\u00e9dito": 40,
+            "Seguros": 46
         }
     },
     "Canal_App Push_Cluster_0_Emprestimo_0_age_Adulto": {
         "alphas": {
             "Investimento": 6,
-            "Servi\u00e7os": 277,
+            "Servi\u00e7os": 176,
             "Cr\u00e9dito": 2,
-            "Seguros": 12
+            "Seguros": 10
         },
         "betas": {
-            "Investimento": 92,
-            "Servi\u00e7os": 1838,
-            "Cr\u00e9dito": 49,
-            "Seguros": 136
+            "Investimento": 86,
+            "Servi\u00e7os": 1144,
+            "Cr\u00e9dito": 48,
+            "Seguros": 125
         }
     },
     "Canal_App Push_Cluster_3_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 6,
+            "Investimento": 4,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 32,
-            "Seguros": 16
+            "Cr\u00e9dito": 21,
+            "Seguros": 14
         },
         "betas": {
-            "Investimento": 58,
-            "Servi\u00e7os": 29,
-            "Cr\u00e9dito": 207,
-            "Seguros": 128
+            "Investimento": 42,
+            "Servi\u00e7os": 24,
+            "Cr\u00e9dito": 125,
+            "Seguros": 85
         }
     },
     "Canal_App Push_Cluster_0_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 12,
-            "Servi\u00e7os": 12,
+            "Investimento": 9,
+            "Servi\u00e7os": 10,
             "Cr\u00e9dito": 1,
-            "Seguros": 45
+            "Seguros": 28
         },
         "betas": {
-            "Investimento": 51,
-            "Servi\u00e7os": 60,
-            "Cr\u00e9dito": 18,
-            "Seguros": 159
+            "Investimento": 40,
+            "Servi\u00e7os": 35,
+            "Cr\u00e9dito": 15,
+            "Seguros": 102
         }
     },
     "Canal_Email_Cluster_1_Emprestimo_0_age_Jovem": {
         "alphas": {
-            "Investimento": 86,
-            "Servi\u00e7os": 4,
-            "Cr\u00e9dito": 16,
-            "Seguros": 17
+            "Investimento": 65,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 9,
+            "Seguros": 6
         },
         "betas": {
-            "Investimento": 676,
-            "Servi\u00e7os": 61,
-            "Cr\u00e9dito": 139,
-            "Seguros": 141
+            "Investimento": 473,
+            "Servi\u00e7os": 50,
+            "Cr\u00e9dito": 99,
+            "Seguros": 55
         }
     },
     "Canal_Email_Cluster_0_Emprestimo_2_age_Senior": {
@@ -1199,22 +1199,22 @@
         "betas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 3,
+            "Cr\u00e9dito": 2,
             "Seguros": 3
         }
     },
     "Canal_App Push_Cluster_2_Emprestimo_2_age_Adulto": {
         "alphas": {
             "Investimento": 2,
-            "Servi\u00e7os": 6,
-            "Cr\u00e9dito": 135,
-            "Seguros": 40
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 82,
+            "Seguros": 32
         },
         "betas": {
-            "Investimento": 29,
-            "Servi\u00e7os": 39,
-            "Cr\u00e9dito": 471,
-            "Seguros": 174
+            "Investimento": 24,
+            "Servi\u00e7os": 31,
+            "Cr\u00e9dito": 283,
+            "Seguros": 137
         }
     },
     "Canal_App Push_Cluster_1_Emprestimo_2_age_Jovem": {
@@ -1222,54 +1222,54 @@
             "Investimento": 1,
             "Servi\u00e7os": 2,
             "Cr\u00e9dito": 1,
-            "Seguros": 13
+            "Seguros": 10
         },
         "betas": {
-            "Investimento": 25,
-            "Servi\u00e7os": 38,
-            "Cr\u00e9dito": 25,
-            "Seguros": 133
+            "Investimento": 20,
+            "Servi\u00e7os": 31,
+            "Cr\u00e9dito": 19,
+            "Seguros": 77
         }
     },
     "Canal_App Push_Cluster_5_Emprestimo_2_age_Jovem": {
         "alphas": {
-            "Investimento": 32,
+            "Investimento": 24,
             "Servi\u00e7os": 3,
             "Cr\u00e9dito": 2,
-            "Seguros": 25
+            "Seguros": 18
         },
         "betas": {
-            "Investimento": 126,
-            "Servi\u00e7os": 30,
-            "Cr\u00e9dito": 22,
-            "Seguros": 109
+            "Investimento": 83,
+            "Servi\u00e7os": 25,
+            "Cr\u00e9dito": 17,
+            "Seguros": 65
         }
     },
     "Canal_SMS_Cluster_0_Emprestimo_2_age_Adulto": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 6,
+            "Servi\u00e7os": 5,
             "Cr\u00e9dito": 5,
-            "Seguros": 29
+            "Seguros": 20
         },
         "betas": {
-            "Investimento": 19,
-            "Servi\u00e7os": 43,
-            "Cr\u00e9dito": 45,
-            "Seguros": 113
+            "Investimento": 16,
+            "Servi\u00e7os": 35,
+            "Cr\u00e9dito": 33,
+            "Seguros": 69
         }
     },
     "Canal_SMS_Cluster_3_Emprestimo_1_age_Senior": {
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 79,
+            "Cr\u00e9dito": 51,
             "Seguros": 1
         },
         "betas": {
             "Investimento": 3,
-            "Servi\u00e7os": 3,
-            "Cr\u00e9dito": 29,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 17,
             "Seguros": 3
         }
     },
@@ -1281,24 +1281,24 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 16,
-            "Servi\u00e7os": 20,
-            "Cr\u00e9dito": 18,
-            "Seguros": 14
+            "Investimento": 13,
+            "Servi\u00e7os": 16,
+            "Cr\u00e9dito": 13,
+            "Seguros": 10
         }
     },
     "Canal_Banner_Cluster_5_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 81,
-            "Servi\u00e7os": 3,
-            "Cr\u00e9dito": 56,
+            "Investimento": 47,
+            "Servi\u00e7os": 2,
+            "Cr\u00e9dito": 52,
             "Seguros": 2
         },
         "betas": {
-            "Investimento": 334,
-            "Servi\u00e7os": 30,
-            "Cr\u00e9dito": 279,
-            "Seguros": 32
+            "Investimento": 182,
+            "Servi\u00e7os": 28,
+            "Cr\u00e9dito": 229,
+            "Seguros": 29
         }
     },
     "Canal_App Push_Cluster_2_Emprestimo_1_age_Adulto": {
@@ -1306,27 +1306,27 @@
             "Investimento": 1,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 13
+            "Seguros": 8
         },
         "betas": {
-            "Investimento": 17,
-            "Servi\u00e7os": 15,
-            "Cr\u00e9dito": 8,
-            "Seguros": 62
+            "Investimento": 14,
+            "Servi\u00e7os": 12,
+            "Cr\u00e9dito": 6,
+            "Seguros": 38
         }
     },
     "Canal_App Push_Cluster_2_Emprestimo_2_age_Senior": {
         "alphas": {
-            "Investimento": 6,
-            "Servi\u00e7os": 23,
-            "Cr\u00e9dito": 21,
+            "Investimento": 5,
+            "Servi\u00e7os": 17,
+            "Cr\u00e9dito": 15,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 23,
-            "Servi\u00e7os": 69,
-            "Cr\u00e9dito": 66,
-            "Seguros": 11
+            "Investimento": 16,
+            "Servi\u00e7os": 42,
+            "Cr\u00e9dito": 34,
+            "Seguros": 9
         }
     },
     "Canal_Banner_Cluster_1_Emprestimo_1_age_Adulto": {
@@ -1334,19 +1334,19 @@
             "Investimento": 4,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 34
+            "Seguros": 19
         },
         "betas": {
-            "Investimento": 42,
-            "Servi\u00e7os": 15,
-            "Cr\u00e9dito": 16,
-            "Seguros": 167
+            "Investimento": 36,
+            "Servi\u00e7os": 12,
+            "Cr\u00e9dito": 13,
+            "Seguros": 92
         }
     },
     "Canal_Email_Cluster_0_Emprestimo_1_age_Jovem": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 14,
+            "Servi\u00e7os": 8,
             "Cr\u00e9dito": 1,
             "Seguros": 4
         },
@@ -1361,168 +1361,168 @@
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 11,
-            "Seguros": 19
+            "Cr\u00e9dito": 7,
+            "Seguros": 15
         },
         "betas": {
-            "Investimento": 23,
-            "Servi\u00e7os": 17,
-            "Cr\u00e9dito": 65,
-            "Seguros": 111
+            "Investimento": 18,
+            "Servi\u00e7os": 14,
+            "Cr\u00e9dito": 28,
+            "Seguros": 72
         }
     },
     "Canal_Email_Cluster_5_Emprestimo_2_age_Jovem": {
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 3,
-            "Cr\u00e9dito": 163,
+            "Cr\u00e9dito": 106,
             "Seguros": 1
         },
         "betas": {
             "Investimento": 13,
-            "Servi\u00e7os": 22,
-            "Cr\u00e9dito": 400,
-            "Seguros": 15
+            "Servi\u00e7os": 13,
+            "Cr\u00e9dito": 257,
+            "Seguros": 13
         }
     },
     "Canal_Email_Cluster_5_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 35,
+            "Investimento": 20,
             "Servi\u00e7os": 3,
-            "Cr\u00e9dito": 54,
-            "Seguros": 10
+            "Cr\u00e9dito": 29,
+            "Seguros": 9
         },
         "betas": {
-            "Investimento": 239,
-            "Servi\u00e7os": 46,
-            "Cr\u00e9dito": 331,
-            "Seguros": 103
+            "Investimento": 152,
+            "Servi\u00e7os": 40,
+            "Cr\u00e9dito": 189,
+            "Seguros": 83
         }
     },
     "Canal_App Push_Cluster_5_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 82,
+            "Investimento": 53,
             "Servi\u00e7os": 2,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 313,
-            "Servi\u00e7os": 28,
-            "Cr\u00e9dito": 19,
-            "Seguros": 20
+            "Investimento": 200,
+            "Servi\u00e7os": 27,
+            "Cr\u00e9dito": 17,
+            "Seguros": 18
         }
     },
     "Canal_SMS_Cluster_1_Emprestimo_1_age_Adulto": {
         "alphas": {
-            "Investimento": 4,
+            "Investimento": 3,
             "Servi\u00e7os": 3,
-            "Cr\u00e9dito": 20,
+            "Cr\u00e9dito": 10,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 53,
-            "Servi\u00e7os": 53,
-            "Cr\u00e9dito": 157,
-            "Seguros": 22
+            "Investimento": 44,
+            "Servi\u00e7os": 43,
+            "Cr\u00e9dito": 85,
+            "Seguros": 21
         }
     },
     "Canal_Email_Cluster_4_Emprestimo_2_age_Senior": {
         "alphas": {
-            "Investimento": 4,
+            "Investimento": 3,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 12,
-            "Servi\u00e7os": 7,
+            "Investimento": 9,
+            "Servi\u00e7os": 5,
             "Cr\u00e9dito": 1,
             "Seguros": 5
         }
     },
     "Canal_Banner_Cluster_4_Emprestimo_2_age_Jovem": {
         "alphas": {
-            "Investimento": 11,
+            "Investimento": 7,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 3
+            "Seguros": 1
         },
         "betas": {
-            "Investimento": 116,
-            "Servi\u00e7os": 29,
-            "Cr\u00e9dito": 30,
-            "Seguros": 40
+            "Investimento": 74,
+            "Servi\u00e7os": 23,
+            "Cr\u00e9dito": 24,
+            "Seguros": 33
         }
     },
     "Canal_Banner_Cluster_0_Emprestimo_2_age_Jovem": {
         "alphas": {
-            "Investimento": 107,
-            "Servi\u00e7os": 28,
-            "Cr\u00e9dito": 4,
+            "Investimento": 70,
+            "Servi\u00e7os": 20,
+            "Cr\u00e9dito": 2,
             "Seguros": 2
         },
         "betas": {
-            "Investimento": 267,
-            "Servi\u00e7os": 88,
-            "Cr\u00e9dito": 26,
-            "Seguros": 18
+            "Investimento": 171,
+            "Servi\u00e7os": 67,
+            "Cr\u00e9dito": 14,
+            "Seguros": 17
         }
     },
     "Canal_SMS_Cluster_4_Emprestimo_1_age_Adulto": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 5,
-            "Cr\u00e9dito": 10,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 5,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 21,
-            "Servi\u00e7os": 43,
-            "Cr\u00e9dito": 61,
-            "Seguros": 7
+            "Investimento": 16,
+            "Servi\u00e7os": 27,
+            "Cr\u00e9dito": 38,
+            "Seguros": 6
         }
     },
     "Canal_App Push_Cluster_4_Emprestimo_2_age_Adulto": {
         "alphas": {
-            "Investimento": 78,
-            "Servi\u00e7os": 5,
+            "Investimento": 49,
+            "Servi\u00e7os": 4,
             "Cr\u00e9dito": 3,
-            "Seguros": 12
+            "Seguros": 10
         },
         "betas": {
-            "Investimento": 632,
-            "Servi\u00e7os": 80,
-            "Cr\u00e9dito": 55,
-            "Seguros": 152
+            "Investimento": 375,
+            "Servi\u00e7os": 67,
+            "Cr\u00e9dito": 48,
+            "Seguros": 126
         }
     },
     "Canal_Banner_Cluster_2_Emprestimo_1_age_Adulto": {
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 8,
-            "Seguros": 9
+            "Cr\u00e9dito": 2,
+            "Seguros": 6
         },
         "betas": {
             "Investimento": 22,
-            "Servi\u00e7os": 23,
-            "Cr\u00e9dito": 51,
-            "Seguros": 59
+            "Servi\u00e7os": 20,
+            "Cr\u00e9dito": 24,
+            "Seguros": 35
         }
     },
     "Canal_Banner_Cluster_4_Emprestimo_0_age_Senior": {
         "alphas": {
-            "Investimento": 15,
-            "Servi\u00e7os": 11,
-            "Cr\u00e9dito": 25,
-            "Seguros": 30
+            "Investimento": 14,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 14,
+            "Seguros": 26
         },
         "betas": {
-            "Investimento": 69,
-            "Servi\u00e7os": 43,
-            "Cr\u00e9dito": 78,
-            "Seguros": 110
+            "Investimento": 58,
+            "Servi\u00e7os": 18,
+            "Cr\u00e9dito": 50,
+            "Seguros": 89
         }
     },
     "Canal_App Push_Cluster_4_Emprestimo_1_age_Jovem": {
@@ -1533,134 +1533,134 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 5,
-            "Servi\u00e7os": 5,
+            "Investimento": 4,
+            "Servi\u00e7os": 3,
             "Cr\u00e9dito": 1,
-            "Seguros": 6
+            "Seguros": 5
         }
     },
     "Canal_Email_Cluster_2_Emprestimo_1_age_Adulto": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 14,
-            "Cr\u00e9dito": 3,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 2,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 17,
-            "Servi\u00e7os": 50,
-            "Cr\u00e9dito": 26,
-            "Seguros": 16
+            "Investimento": 15,
+            "Servi\u00e7os": 29,
+            "Cr\u00e9dito": 22,
+            "Seguros": 15
         }
     },
     "Canal_Banner_Cluster_4_Emprestimo_1_age_Adulto": {
         "alphas": {
-            "Investimento": 6,
+            "Investimento": 5,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 8,
-            "Seguros": 45
+            "Cr\u00e9dito": 7,
+            "Seguros": 27
         },
         "betas": {
-            "Investimento": 31,
-            "Servi\u00e7os": 14,
-            "Cr\u00e9dito": 42,
-            "Seguros": 153
+            "Investimento": 23,
+            "Servi\u00e7os": 10,
+            "Cr\u00e9dito": 37,
+            "Seguros": 91
         }
     },
     "Canal_SMS_Cluster_5_Emprestimo_2_age_Jovem": {
         "alphas": {
-            "Investimento": 10,
+            "Investimento": 8,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 103,
+            "Cr\u00e9dito": 62,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 61,
-            "Servi\u00e7os": 19,
-            "Cr\u00e9dito": 326,
-            "Seguros": 14
+            "Investimento": 54,
+            "Servi\u00e7os": 17,
+            "Cr\u00e9dito": 205,
+            "Seguros": 12
         }
     },
     "Canal_SMS_Cluster_0_Emprestimo_2_age_Jovem": {
         "alphas": {
             "Investimento": 9,
-            "Servi\u00e7os": 2,
-            "Cr\u00e9dito": 141,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 90,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 31,
-            "Servi\u00e7os": 10,
-            "Cr\u00e9dito": 196,
+            "Investimento": 29,
+            "Servi\u00e7os": 8,
+            "Cr\u00e9dito": 127,
             "Seguros": 6
         }
     },
     "Canal_SMS_Cluster_4_Emprestimo_2_age_Jovem": {
         "alphas": {
             "Investimento": 2,
-            "Servi\u00e7os": 8,
-            "Cr\u00e9dito": 15,
+            "Servi\u00e7os": 6,
+            "Cr\u00e9dito": 6,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 16,
-            "Servi\u00e7os": 33,
-            "Cr\u00e9dito": 48,
+            "Investimento": 15,
+            "Servi\u00e7os": 21,
+            "Cr\u00e9dito": 22,
             "Seguros": 4
         }
     },
     "Canal_App Push_Cluster_1_Emprestimo_1_age_Adulto": {
         "alphas": {
-            "Investimento": 4,
-            "Servi\u00e7os": 15,
+            "Investimento": 3,
+            "Servi\u00e7os": 11,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 33,
-            "Servi\u00e7os": 108,
-            "Cr\u00e9dito": 20,
-            "Seguros": 20
+            "Investimento": 27,
+            "Servi\u00e7os": 62,
+            "Cr\u00e9dito": 16,
+            "Seguros": 15
         }
     },
     "Canal_Banner_Cluster_1_Emprestimo_2_age_Jovem": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 2,
-            "Cr\u00e9dito": 29,
+            "Servi\u00e7os": 1,
+            "Cr\u00e9dito": 18,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 27,
-            "Servi\u00e7os": 30,
-            "Cr\u00e9dito": 201,
+            "Investimento": 21,
+            "Servi\u00e7os": 22,
+            "Cr\u00e9dito": 121,
             "Seguros": 27
         }
     },
     "Canal_Banner_Cluster_0_Emprestimo_1_age_Adulto": {
         "alphas": {
-            "Investimento": 12,
+            "Investimento": 7,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 64,
-            "Servi\u00e7os": 16,
-            "Cr\u00e9dito": 16,
-            "Seguros": 18
+            "Investimento": 37,
+            "Servi\u00e7os": 15,
+            "Cr\u00e9dito": 14,
+            "Seguros": 14
         }
     },
     "Canal_App Push_Cluster_5_Emprestimo_1_age_Jovem": {
         "alphas": {
             "Investimento": 2,
-            "Servi\u00e7os": 24,
+            "Servi\u00e7os": 12,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
             "Investimento": 7,
-            "Servi\u00e7os": 18,
+            "Servi\u00e7os": 12,
             "Cr\u00e9dito": 3,
             "Seguros": 4
         }
@@ -1675,22 +1675,22 @@
         "betas": {
             "Investimento": 4,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 7,
-            "Seguros": 6
+            "Cr\u00e9dito": 5,
+            "Seguros": 3
         }
     },
     "Canal_Email_Cluster_5_Emprestimo_1_age_Adulto": {
         "alphas": {
-            "Investimento": 12,
+            "Investimento": 7,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 64,
-            "Servi\u00e7os": 14,
-            "Cr\u00e9dito": 16,
-            "Seguros": 14
+            "Investimento": 36,
+            "Servi\u00e7os": 12,
+            "Cr\u00e9dito": 15,
+            "Seguros": 12
         }
     },
     "Canal_SMS_Cluster_2_Emprestimo_1_age_Adulto": {
@@ -1698,13 +1698,13 @@
             "Investimento": 1,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 12
+            "Seguros": 7
         },
         "betas": {
-            "Investimento": 16,
-            "Servi\u00e7os": 12,
+            "Investimento": 14,
+            "Servi\u00e7os": 10,
             "Cr\u00e9dito": 16,
-            "Seguros": 30
+            "Seguros": 19
         }
     },
     "Canal_SMS_Cluster_2_Emprestimo_2_age_Senior": {
@@ -1712,41 +1712,41 @@
             "Investimento": 6,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 3,
-            "Seguros": 46
+            "Seguros": 28
         },
         "betas": {
-            "Investimento": 20,
-            "Servi\u00e7os": 8,
-            "Cr\u00e9dito": 13,
-            "Seguros": 53
+            "Investimento": 17,
+            "Servi\u00e7os": 7,
+            "Cr\u00e9dito": 12,
+            "Seguros": 32
         }
     },
     "Canal_Banner_Cluster_0_Emprestimo_1_age_Jovem": {
         "alphas": {
-            "Investimento": 59,
+            "Investimento": 36,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 3,
             "Seguros": 5
         },
         "betas": {
-            "Investimento": 15,
+            "Investimento": 10,
             "Servi\u00e7os": 4,
             "Cr\u00e9dito": 6,
-            "Seguros": 6
+            "Seguros": 5
         }
     },
     "Canal_Email_Cluster_2_Emprestimo_1_age_Senior": {
         "alphas": {
-            "Investimento": 15,
+            "Investimento": 10,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 23,
-            "Servi\u00e7os": 6,
+            "Investimento": 15,
+            "Servi\u00e7os": 5,
             "Cr\u00e9dito": 4,
-            "Seguros": 6
+            "Seguros": 4
         }
     },
     "Canal_SMS_Cluster_4_Emprestimo_1_age_Jovem": {
@@ -1758,30 +1758,30 @@
         },
         "betas": {
             "Investimento": 1,
-            "Servi\u00e7os": 5,
-            "Cr\u00e9dito": 5,
-            "Seguros": 7
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 4,
+            "Seguros": 6
         }
     },
     "Canal_Email_Cluster_0_Emprestimo_1_age_Adulto": {
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 8,
+            "Cr\u00e9dito": 6,
             "Seguros": 1
         },
         "betas": {
             "Investimento": 1,
             "Servi\u00e7os": 5,
-            "Cr\u00e9dito": 20,
-            "Seguros": 8
+            "Cr\u00e9dito": 14,
+            "Seguros": 7
         }
     },
     "Canal_SMS_Cluster_2_Emprestimo_0_age_Jovem": {
         "alphas": {
             "Investimento": 2,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 16,
+            "Cr\u00e9dito": 12,
             "Seguros": 1
         },
         "betas": {
@@ -1794,21 +1794,21 @@
     "Canal_Banner_Cluster_3_Emprestimo_2_age_Senior": {
         "alphas": {
             "Investimento": 4,
-            "Servi\u00e7os": 18,
-            "Cr\u00e9dito": 9,
-            "Seguros": 74
+            "Servi\u00e7os": 14,
+            "Cr\u00e9dito": 6,
+            "Seguros": 48
         },
         "betas": {
-            "Investimento": 22,
-            "Servi\u00e7os": 53,
-            "Cr\u00e9dito": 32,
-            "Seguros": 149
+            "Investimento": 16,
+            "Servi\u00e7os": 35,
+            "Cr\u00e9dito": 20,
+            "Seguros": 97
         }
     },
     "Canal_Banner_Cluster_3_Emprestimo_1_age_Senior": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 17,
+            "Servi\u00e7os": 11,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
@@ -1821,15 +1821,15 @@
     },
     "Canal_SMS_Cluster_2_Emprestimo_1_age_Senior": {
         "alphas": {
-            "Investimento": 3,
-            "Servi\u00e7os": 6,
+            "Investimento": 2,
+            "Servi\u00e7os": 4,
             "Cr\u00e9dito": 2,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 6,
-            "Servi\u00e7os": 9,
-            "Cr\u00e9dito": 8,
+            "Investimento": 5,
+            "Servi\u00e7os": 6,
+            "Cr\u00e9dito": 6,
             "Seguros": 1
         }
     },
@@ -1837,14 +1837,14 @@
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 8,
+            "Cr\u00e9dito": 6,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 5,
+            "Investimento": 4,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 14,
-            "Seguros": 6
+            "Cr\u00e9dito": 11,
+            "Seguros": 5
         }
     },
     "Canal_Email_Cluster_3_Emprestimo_1_age_Adulto": {
@@ -1855,24 +1855,24 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 28,
-            "Servi\u00e7os": 18,
-            "Cr\u00e9dito": 29,
-            "Seguros": 24
+            "Investimento": 20,
+            "Servi\u00e7os": 14,
+            "Cr\u00e9dito": 20,
+            "Seguros": 15
         }
     },
     "Canal_App Push_Cluster_3_Emprestimo_1_age_Adulto": {
         "alphas": {
-            "Investimento": 4,
+            "Investimento": 1,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 28,
-            "Servi\u00e7os": 13,
-            "Cr\u00e9dito": 17,
-            "Seguros": 15
+            "Investimento": 15,
+            "Servi\u00e7os": 10,
+            "Cr\u00e9dito": 12,
+            "Seguros": 11
         }
     },
     "Canal_App Push_Cluster_4_Emprestimo_1_age_Adulto": {
@@ -1880,13 +1880,13 @@
             "Investimento": 2,
             "Servi\u00e7os": 8,
             "Cr\u00e9dito": 1,
-            "Seguros": 19
+            "Seguros": 9
         },
         "betas": {
-            "Investimento": 24,
-            "Servi\u00e7os": 59,
-            "Cr\u00e9dito": 14,
-            "Seguros": 68
+            "Investimento": 21,
+            "Servi\u00e7os": 51,
+            "Cr\u00e9dito": 13,
+            "Seguros": 36
         }
     },
     "Canal_App Push_Cluster_2_Emprestimo_0_age_Jovem": {
@@ -1898,22 +1898,22 @@
         },
         "betas": {
             "Investimento": 1,
-            "Servi\u00e7os": 7,
+            "Servi\u00e7os": 5,
             "Cr\u00e9dito": 4,
             "Seguros": 3
         }
     },
     "Canal_Email_Cluster_5_Emprestimo_1_age_Jovem": {
         "alphas": {
-            "Investimento": 12,
+            "Investimento": 6,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 3,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 20,
+            "Investimento": 13,
             "Servi\u00e7os": 4,
-            "Cr\u00e9dito": 16,
+            "Cr\u00e9dito": 13,
             "Seguros": 10
         }
     },
@@ -1925,10 +1925,10 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 6,
+            "Investimento": 5,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 10,
-            "Seguros": 7
+            "Cr\u00e9dito": 6,
+            "Seguros": 6
         }
     },
     "Canal_SMS_Cluster_4_Emprestimo_1_age_Senior": {
@@ -1940,7 +1940,7 @@
         },
         "betas": {
             "Investimento": 1,
-            "Servi\u00e7os": 4,
+            "Servi\u00e7os": 3,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         }
@@ -1949,13 +1949,13 @@
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 27,
+            "Cr\u00e9dito": 17,
             "Seguros": 1
         },
         "betas": {
             "Investimento": 5,
-            "Servi\u00e7os": 5,
-            "Cr\u00e9dito": 41,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 24,
             "Seguros": 6
         }
     },
@@ -1967,10 +1967,10 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 12,
-            "Servi\u00e7os": 13,
-            "Cr\u00e9dito": 7,
-            "Seguros": 10
+            "Investimento": 9,
+            "Servi\u00e7os": 9,
+            "Cr\u00e9dito": 6,
+            "Seguros": 9
         }
     },
     "Canal_App Push_Cluster_0_Emprestimo_1_age_Adulto": {
@@ -1981,10 +1981,10 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 10,
-            "Servi\u00e7os": 14,
-            "Cr\u00e9dito": 17,
-            "Seguros": 19
+            "Investimento": 7,
+            "Servi\u00e7os": 11,
+            "Cr\u00e9dito": 12,
+            "Seguros": 13
         }
     },
     "Canal_SMS_Cluster_5_Emprestimo_1_age_Adulto": {
@@ -1992,7 +1992,7 @@
             "Investimento": 1,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 19
+            "Seguros": 13
         },
         "betas": {
             "Investimento": 3,
@@ -2009,52 +2009,52 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 9,
-            "Servi\u00e7os": 7,
-            "Cr\u00e9dito": 8,
-            "Seguros": 6
+            "Investimento": 8,
+            "Servi\u00e7os": 4,
+            "Cr\u00e9dito": 5,
+            "Seguros": 5
         }
     },
     "Canal_App Push_Cluster_5_Emprestimo_1_age_Adulto": {
         "alphas": {
-            "Investimento": 11,
-            "Servi\u00e7os": 4,
+            "Investimento": 8,
+            "Servi\u00e7os": 3,
             "Cr\u00e9dito": 1,
             "Seguros": 6
         },
         "betas": {
-            "Investimento": 24,
-            "Servi\u00e7os": 15,
-            "Cr\u00e9dito": 9,
-            "Seguros": 23
+            "Investimento": 14,
+            "Servi\u00e7os": 12,
+            "Cr\u00e9dito": 8,
+            "Seguros": 17
         }
     },
     "Canal_Banner_Cluster_3_Emprestimo_1_age_Adulto": {
         "alphas": {
-            "Investimento": 17,
+            "Investimento": 7,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 14
+            "Seguros": 13
         },
         "betas": {
-            "Investimento": 33,
-            "Servi\u00e7os": 13,
+            "Investimento": 13,
+            "Servi\u00e7os": 12,
             "Cr\u00e9dito": 11,
-            "Seguros": 58
+            "Seguros": 50
         }
     },
     "Canal_SMS_Cluster_5_Emprestimo_1_age_Jovem": {
         "alphas": {
             "Investimento": 1,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 11,
+            "Cr\u00e9dito": 7,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 13,
-            "Servi\u00e7os": 9,
-            "Cr\u00e9dito": 53,
-            "Seguros": 11
+            "Investimento": 10,
+            "Servi\u00e7os": 6,
+            "Cr\u00e9dito": 32,
+            "Seguros": 8
         }
     },
     "Canal_SMS_Cluster_0_Emprestimo_1_age_Adulto": {
@@ -2062,13 +2062,13 @@
             "Investimento": 1,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 12
+            "Seguros": 6
         },
         "betas": {
-            "Investimento": 7,
+            "Investimento": 6,
             "Servi\u00e7os": 6,
-            "Cr\u00e9dito": 6,
-            "Seguros": 16
+            "Cr\u00e9dito": 5,
+            "Seguros": 11
         }
     },
     "Canal_App Push_Cluster_2_Emprestimo_1_age_Senior": {
@@ -2079,8 +2079,8 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 4,
-            "Servi\u00e7os": 11,
+            "Investimento": 3,
+            "Servi\u00e7os": 8,
             "Cr\u00e9dito": 1,
             "Seguros": 5
         }
@@ -2101,13 +2101,13 @@
     },
     "Canal_Banner_Cluster_4_Emprestimo_1_age_Senior": {
         "alphas": {
-            "Investimento": 11,
+            "Investimento": 7,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 7,
+            "Investimento": 5,
             "Servi\u00e7os": 3,
             "Cr\u00e9dito": 1,
             "Seguros": 1
@@ -2116,14 +2116,14 @@
     "Canal_Email_Cluster_3_Emprestimo_1_age_Senior": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 11,
+            "Servi\u00e7os": 6,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 3,
+            "Investimento": 2,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 3,
+            "Cr\u00e9dito": 2,
             "Seguros": 1
         }
     },
@@ -2144,14 +2144,14 @@
     "Canal_SMS_Cluster_4_Emprestimo_2_age_Senior": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 10,
+            "Servi\u00e7os": 6,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 10,
-            "Servi\u00e7os": 26,
-            "Cr\u00e9dito": 9,
+            "Investimento": 9,
+            "Servi\u00e7os": 14,
+            "Cr\u00e9dito": 6,
             "Seguros": 5
         }
     },
@@ -2160,27 +2160,27 @@
             "Investimento": 1,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 15
+            "Seguros": 9
         },
         "betas": {
-            "Investimento": 5,
+            "Investimento": 4,
             "Servi\u00e7os": 5,
-            "Cr\u00e9dito": 4,
-            "Seguros": 10
+            "Cr\u00e9dito": 3,
+            "Seguros": 6
         }
     },
     "Canal_Email_Cluster_0_Emprestimo_0_age_Senior": {
         "alphas": {
             "Investimento": 1,
-            "Servi\u00e7os": 17,
+            "Servi\u00e7os": 11,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 3,
+            "Investimento": 2,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 4,
-            "Seguros": 3
+            "Seguros": 2
         }
     },
     "Canal_Email_Cluster_2_Emprestimo_0_age_Jovem": {
@@ -2191,8 +2191,8 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 3,
-            "Servi\u00e7os": 5,
+            "Investimento": 2,
+            "Servi\u00e7os": 4,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         }
@@ -2202,13 +2202,13 @@
             "Investimento": 1,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 7
+            "Seguros": 5
         },
         "betas": {
-            "Investimento": 8,
-            "Servi\u00e7os": 8,
-            "Cr\u00e9dito": 8,
-            "Seguros": 32
+            "Investimento": 6,
+            "Servi\u00e7os": 5,
+            "Cr\u00e9dito": 7,
+            "Seguros": 20
         }
     },
     "Canal_App Push_Cluster_3_Emprestimo_1_age_Senior": {
@@ -2216,12 +2216,12 @@
             "Investimento": 1,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 2,
-            "Seguros": 14
+            "Seguros": 8
         },
         "betas": {
             "Investimento": 3,
             "Servi\u00e7os": 3,
-            "Cr\u00e9dito": 4,
+            "Cr\u00e9dito": 3,
             "Seguros": 1
         }
     },
@@ -2250,7 +2250,7 @@
             "Investimento": 4,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 5
+            "Seguros": 4
         }
     },
     "Canal_App Push_Cluster_4_Emprestimo_2_age_Senior": {
@@ -2261,24 +2261,24 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 6,
-            "Servi\u00e7os": 5,
-            "Cr\u00e9dito": 5,
+            "Investimento": 4,
+            "Servi\u00e7os": 3,
+            "Cr\u00e9dito": 4,
             "Seguros": 1
         }
     },
     "Canal_App Push_Cluster_0_Emprestimo_1_age_Jovem": {
         "alphas": {
-            "Investimento": 4,
-            "Servi\u00e7os": 5,
+            "Investimento": 2,
+            "Servi\u00e7os": 4,
             "Cr\u00e9dito": 1,
-            "Seguros": 13
+            "Seguros": 10
         },
         "betas": {
-            "Investimento": 9,
-            "Servi\u00e7os": 12,
+            "Investimento": 5,
+            "Servi\u00e7os": 7,
             "Cr\u00e9dito": 4,
-            "Seguros": 18
+            "Seguros": 13
         }
     },
     "Canal_SMS_Cluster_0_Emprestimo_0_age_Senior": {
@@ -2289,9 +2289,9 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 6,
+            "Investimento": 5,
             "Servi\u00e7os": 1,
-            "Cr\u00e9dito": 5,
+            "Cr\u00e9dito": 4,
             "Seguros": 1
         }
     },
@@ -2304,7 +2304,7 @@
         },
         "betas": {
             "Investimento": 3,
-            "Servi\u00e7os": 6,
+            "Servi\u00e7os": 5,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         }
@@ -2317,7 +2317,7 @@
             "Seguros": 1
         },
         "betas": {
-            "Investimento": 4,
+            "Investimento": 3,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
             "Seguros": 1
@@ -2346,7 +2346,7 @@
         },
         "betas": {
             "Investimento": 1,
-            "Servi\u00e7os": 4,
+            "Servi\u00e7os": 3,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         }
@@ -2374,7 +2374,7 @@
         },
         "betas": {
             "Investimento": 1,
-            "Servi\u00e7os": 3,
+            "Servi\u00e7os": 2,
             "Cr\u00e9dito": 1,
             "Seguros": 1
         }
@@ -2390,7 +2390,7 @@
             "Investimento": 1,
             "Servi\u00e7os": 1,
             "Cr\u00e9dito": 1,
-            "Seguros": 4
+            "Seguros": 3
         }
     },
     "Canal_SMS_Cluster_0_Emprestimo_2_age_Senior": {
@@ -2407,5 +2407,5 @@
             "Seguros": 3
         }
     },
-    "iteracoes": 3
+    "iteracoes": 2
 }

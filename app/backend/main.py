@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 from pathlib import Path
 from typing import Any
 
@@ -10,9 +11,16 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
+import logging
+
 APP_ROOT = Path(__file__).resolve().parents[1]
 REPO_ROOT = APP_ROOT.parents[0]
-MODEL_PATH = REPO_ROOT / "data" / "model" / "thompson_sampling_contextual_model.json"
+MODEL_PATH = REPO_ROOT / "data" / "model" / "mlruns"
+EXPERIMENT = "1"
+
+# Configurando o log auditável (Exigência da Etapa 5)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
+logger = logging.getLogger("Decisao_Bandit")
 
 app = FastAPI(title="FIAP BANK Demo API", version="1.0.0")
 app.add_middleware(
@@ -22,7 +30,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 class RecommendationRequest(BaseModel):
     profile_id: str
@@ -36,8 +43,25 @@ class Profile(BaseModel):
 
 
 def load_model() -> dict[str, Any]:
-    with MODEL_PATH.open("r", encoding="utf-8") as handle:
-        return json.load(handle)
+    print("🔄 Conectando ao MLflow para baixar a política mais recente...")   
+    try:
+        # Ultima runid que peguei lá paniel do MLflow.
+        run_id = "38df98bea5794765b123f89fd5d4b7bf" 
+
+        # Configura a URI de rastreamento do MLflow para o repositório correto
+        uri_correta = f"{MODEL_PATH / EXPERIMENT / run_id / 'artifacts' / 'thompson_sampling_contextual_model.json'}"  # Em um ambiente produtivo, você pode usar a URL do MLflow hospedado
+
+        print(f"🔗 Conectando ao MLflow com URI: {uri_correta}")
+        
+        with open(uri_correta, 'r') as f:
+            modelos_ts = json.load(f)
+            
+        print("✅ Cérebro carregado com sucesso na API!")
+
+        return modelos_ts
+    except Exception as e:
+        print(f"❌ Erro ao buscar no MLflow: {e}")
+
 
 
 MODEL = load_model()
@@ -139,6 +163,9 @@ def recommend_offer(context: str) -> dict[str, Any]:
         {"offer": offer_name, "score": round(score, 4)}
         for score, offer_name in sorted(scores, key=lambda item: item[0], reverse=True)
     ]
+
+    # 3. Gera o LOG AUDITÁVEL (Exigência do Datathon)
+    logger.info(f"DECISAO | Contexto: {context} | Oferta: {best_offer} | Ranking: {ranked}")
 
     return {
         "context": context,

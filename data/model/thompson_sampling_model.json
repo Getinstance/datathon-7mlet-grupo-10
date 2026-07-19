@@ -1,0 +1,15 @@
+{
+    "alphas": {
+        "Investimento": 6427,
+        "Servi\u00e7os": 412,
+        "Cr\u00e9dito": 164,
+        "Seguros": 490
+    },
+    "betas": {
+        "Investimento": 48082,
+        "Servi\u00e7os": 3337,
+        "Cr\u00e9dito": 1476,
+        "Seguros": 4061
+    },
+    "iteracoes": 1
+}
