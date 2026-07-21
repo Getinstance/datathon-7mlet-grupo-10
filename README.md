@@ -52,6 +52,13 @@ O notebook onde ocorre toda a exploração, limpeza, transformação dos dados �
 
 O arquivo que vai servir como a base dados para a geração de dados sintéticos é o: [`data/processed/bank-processed-v1-apache2.csv`](data/processed/bank-processed-v1-apache2.csv)
 
+#### Cluster de Contexto
+"Os segmentos de contexto não foram criados por regras manuais, mas sim utilizando o algoritmo K-Means sobre as variáveis X e Y. Encontramos K personas principais que foram mapeadas para a coluna context_segment."
+
+#### Vinculo de entidades
+Vínculo de Entidades (Entity Linkage): > Como a base original do Kaggle não possui um identificador de usuário , optamos por criar uma Chave Artificial chamada profile_id durante a Etapa 1. 
+Cada profile_id mapeia diretamente para uma linha de atributos demográficos e financeiros na base data/processed/. 
+
 ### Dicionário de dados:
 
 ####  Dados do Cliente:
@@ -91,7 +98,54 @@ O arquivo que vai servir como a base dados para a geração de dados sintéticos
 | y | Cliente aderiu ao depósito a prazo? | binário: 'yes', 'no' |
 
 ## Etapa 3 — Baseline e estratégia algorítmica
+
+Antes de definir um baseline foi necessário gerar a massa de dados final.
+Como foram solicitada diferentes ofertas e a base original do Kaggle continha somente o um sim/não de uma unica proposta
+foi criado então um catalogo simulado de ofertas.
+
+***[offer_catelog.csv](data/synthetic_enrichment/offer_catalog.csv)***
+
+Utilizano o notebook [data-generation.ipynb](data/synthetic_enrichment/data-generation.ipynb) foi gerado 
+também uma seleção de eventos de aceite dessas ofertas com uma distribuição randomizada.
+
+Gerando o arquivo:
+***[offer_events.csv](data/synthetic_enrichment/offer_events.csv)***
+
+### Partindo para o baseline e o modelo.
+
+Somente após a criação dos arquivos de dados é que começamos a calcular o baseline
+e explorar o aprendizado do moddelo.
+
+***[model-basaeline.ipynb](data/model/model-baseline.ipynb)***
+
 ## Etapa 4 — Avaliação e Casos de Teste
+
+Na avaliação e casos de testes passei por muitas situações até chegar em uma algoritiomos e dados que gerassem o efeito esperado.
+
+No notebook ***[model-basaeline.ipynb](data/model/model-baseline.ipynb)*** é possível encontrar os comentários descrevendo os cenários mas aqui
+temos também uma lista dos destaques.
+
+Os eventos registrados em offer_events.csv utilizam essa chave para permitir que o algoritmo contextual recupere os atributos (features) do cliente no momento da tomada de decisão da oferta.
+
+#### Overfitting no "Replay" (Testar sempre a mesma base)
+Se estás a correr o teu script várias vezes em cima da mesma base de dados do Kaggle, estás a cometer um erro de Data Leakage temporal. O algoritmo lê o mesmo cliente que já tinha lido ontem e adiciona mais uma punição (
+β) à mesma oferta. Isso esmaga a probabilidade de conversão geral.
+
+Percebi que testar a mesma base muitas vezes em sequência acaba apagando a chance dela se ajustas corretamente.
+Usei uma estratégia para multiplicar a base de dados replicando varias vezes os mesmo dados, para que o modelo tenha tempo de aprender.
+
+"A arquitetura do  Bandit prevê a utilização de um Decay Factor para lidar com Concept Drift em produção. 
+No entanto, durante a Avaliação Offline (Etapa 4), ao aplicarmos Data Augmentation para alongar o horizonte temporal, observamos que o fator de esquecimento causava amnésia no modelo em fases finais da simulação, degradando a performance.
+Portanto, o hiperparâmetro de decay foi desativado (setado para 1.0) para os testes estáticos offline, mas permanece na codebase para ativação no ambiente produtivo de MLOps (Etapa 7)."
+
+Também tive que testar muitas vezes com diferentes grupos de contexto e abordagens de aprendizado, pois o alogoritimo nunca conseguia aprender e ultrapassar o baseline gerado.
+
+No final, consegui ajustas os grupos de contextos e encontrar um equilibrio entre os dados socioeconicos, divida e perfil dos clientes que geravam um aprendizado que ultrapassava o baseline.
+Gerando provas do baseline e também separando a analise em fases de exploração explotação dos dados.
+
+A Prova do Trade-off (Regret): Na primeira metade da simulação, o seu modelo teve uma conversão de 11.67%, perdendo para o Baseline (11.78%).
+A Prova do Aprendizado (Explotação): Na segunda metade, depois que o modelo entendeu que o contexto X preferia a categoria Y, a conversão saltou para 11.97%, ultrapassando o "vidente" do Baseline e garantindo um Uplift real de +1.58%.
+
 ## Etapa 5 — Serviço ou interface demonstrável
 
 ## Etapa 6 - Arquitetura na Nuvem.
