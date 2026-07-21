@@ -148,6 +148,12 @@ A Prova do Aprendizado (Explotação): Na segunda metade, depois que o modelo en
 
 ## Etapa 5 — Serviço ou interface demonstrável
 
+![Tela da Simulação](doc/tela-demonstracao.png)
+
+Foi criado no diretório `app/frontend` uma simulação simples com uma tela simulando os perfis e gerando o retorno com a oferta escolhida.
+
+Para o `app/backend` temos uma API simples usando o FastAPI e carregando localmente a run mais recente gerada com MlFlow (Não é o comum, mas foi mais fácil do que fazer um server como MLFlow)
+
 ## Etapa 6 - Arquitetura na Nuvem.
 
 #### 1. Dados e Treinamento do Modelo (Como o modelo aprende na nuvem)
@@ -190,3 +196,16 @@ graph TD
     end
 ```
 ## Etapa 7 — Ciclo de vida MLOps
+
+Fica aqui a dica de que na descrição do projeto o MLOps e o uso do MLFlow poderia ser indicado ali no começo.
+
+Dessa forma mesmo as runs aonde eu não consegui atingir o baseline ou fui descobrindo as situações com problemas ficariam  registradas, não somente no notebook e commits mas como varias `runs` no experimento.
+
+Mais para o final dos testes eu atualizei o ***[model-basaeline.ipynb](data/model/model-baseline.ipynb)*** para criar o experimento `Datathon_Experimentacao_Adaptativa` para registrar os dados do treinamento utilzando o MlFlow localmente.
+
+Se der tempo, vou tentar transforma o MfFlow local em um serviço HTTP e incluir no docker compose utilizado na demonstração.
+
+## Etapa 8 — Apresentação Final (Demo Day)
+
+- Link do Video       -> http://yotube.com/video 
+- Link do Repositório -> https://github.com/Getinstance/datathon-7mlet-grupo-10
